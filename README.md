@@ -38,6 +38,7 @@ and download your favorites below:
 | StarSyL Skin           | v1.0 (1) | [StarSyLskin v1.0(1).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/StarSyLskin.v1.0.1.apk)                     |
 | Tato Skin              | v1.1 (2) | [TatoSkin v1.1(2).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/TatoSkin.v1.1.2.apk)                           |
 | UFO A1 for ANeko       | v1.0 (1) | [Ufo A1 for ANeko v1.0(1).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Ufo.A1.for.ANeko.v1.0.1.apk)           |
+| Chocola1               | v1.0     | [Chocola1.v1.0.apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Chocola1.v1.0.apk)                                |
 
 ---
 
