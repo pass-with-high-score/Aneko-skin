@@ -40,6 +40,7 @@ and download your favorites below:
 | <img src="/asset/logo/ufoa1.png" width="64" style="display:block; margin:auto;" />       | ANeko skin Ufo A1      | v1.0 (1) | [Ufo A1 for ANeko v1.0(1).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Ufo.A1.for.ANeko.v1.0.1.apk)           |
 | <img src="/asset/logo/chocola1.png" width="64" style="display:block; margin:auto;" />    | Chocola1               | v1.0     | [Chocola1.v1.0.apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Chocola1.v1.0.apk)                                |
 | <img src="/asset/logo/evee.png" width="64" style="display:block; margin:auto;" />        | Evee                   | v1.0     | [Eevee.for.ANeko_1.0.apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Eevee.for.ANeko_1.0.apk)                    |
+| <img src="/asset/logo/skitty.png" width="64" style="display:block; margin:auto;" />      | Skitty for ANeko       | D'awww   | [Skitty.D'awww.apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Skitty.D.awww.apk)                                |
 
 ---
 
