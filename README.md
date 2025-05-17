@@ -22,23 +22,24 @@ You can find and download all skins from
 the [GitHub Releases](https://github.com/pass-with-high-score/Aneko-skin/releases) page, or select
 and download your favorites below:
 
-| Skin Name              | Version  | File Name                                                                                                                                        |
-|------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Alien Skin             | v1.2 (3) | [AlienSkin v1.2(3).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/AlienSkin.v1.2.3.apk)                         |
-| Aqua Neon Skin         | v1.3 (4) | [AquaNeonSkin v1.3(4).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/AquaNeonSkin.v1.3.4.apk)                   |
-| Black 2 Skin           | v1.0 (1) | [Black2skin v1.0(1).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Black2skin.v1.0.1.apk)                       |
-| Bugy Skin              | v1.0 (1) | [BugySkin v1.0(1).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/BugySkin.v1.0.1.apk)                           |
-| Bxter Skin             | v1.0 (1) | [Bxterskin v1.0(1).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Bxterskin.v1.0.1.apk)                         |
-| Caza1 Skin             | v1.1 (2) | [Caza1Skin v1.1(2).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Caza1Skin.v1.1.2.apk)                         |
-| Colibri Skin for ANeko | v1.3 (4) | [Colibriskin for ANeko v1.3(4).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Colibriskin.for.ANeko.v1.3.4.apk) |
-| DeeDee Skin            | v1.0 (1) | [DeeDeeSkin v1.0(1).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/DeeDeeSkin.v1.0.1.apk)                       |
-| Jerry Skin             | v1.3 (4) | [Jerry v1.3(4).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Jerry.v1.3.4.apk)                                 |
-| Mari.R Skin            | v1.2 (3) | [Mari.Rskin v1.2(3).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Mari.Rskin.v1.2.3.apk)                       |
-| Nanobot.r23 Skin       | v1.1 (2) | [Nanobot.r23Skin v1.1(2).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Nanobot.r23Skin.v1.1.2.apk)             |
-| StarSyL Skin           | v1.0 (1) | [StarSyLskin v1.0(1).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/StarSyLskin.v1.0.1.apk)                     |
-| Tato Skin              | v1.1 (2) | [TatoSkin v1.1(2).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/TatoSkin.v1.1.2.apk)                           |
-| UFO A1 for ANeko       | v1.0 (1) | [Ufo A1 for ANeko v1.0(1).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Ufo.A1.for.ANeko.v1.0.1.apk)           |
-| Chocola1               | v1.0     | [Chocola1.v1.0.apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Chocola1.v1.0.apk)                                |
+| Icon                             | Skin Name              | Version  | File Name                                                                                                                                        |
+|----------------------------------|------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](/asset/logo/alien.png)       | Alien Skin             | v1.2 (3) | [AlienSkin v1.2(3).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/AlienSkin.v1.2.3.apk)                         |
+| ![](/asset/logo/aquaneon.png)    | ANeko skin AquaNeon    | v1.3 (4) | [AquaNeonSkin v1.3(4).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/AquaNeonSkin.v1.3.4.apk)                   |
+| ![](/asset/logo/black2.png)      | ANeko skin black2      | v1.0 (1) | [Black2skin v1.0(1).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Black2skin.v1.0.1.apk)                       |
+| ![](/asset/logo/bugy.png)        | ANeko skin Bugy        | v1.0 (1) | [BugySkin v1.0(1).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/BugySkin.v1.0.1.apk)                           |
+| ![](/asset/logo/bxter.png)       | Bxter Skin             | v1.0 (1) | [Bxterskin v1.0(1).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Bxterskin.v1.0.1.apk)                         |
+| ![](/asset/logo/caza1.png)       | ANeko skin Caza1       | v1.1 (2) | [Caza1Skin v1.1(2).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Caza1Skin.v1.1.2.apk)                         |
+| ![](/asset/logo/colibri.png)     | Colibri Skin for ANeko | v1.3 (4) | [Colibriskin for ANeko v1.3(4).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Colibriskin.for.ANeko.v1.3.4.apk) |
+| ![](/asset/logo/deedee.png)      | ANeko skin DeeDee      | v1.0 (1) | [DeeDeeSkin v1.0(1).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/DeeDeeSkin.v1.0.1.apk)                       |
+| ![](/asset/logo/jerry.png)       | Jerry Skin             | v1.3 (4) | [Jerry v1.3(4).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Jerry.v1.3.4.apk)                                 |
+| ![](/asset/logo/marir.png)       | ANeko skin Mari.R      | v1.2 (3) | [Mari.Rskin v1.2(3).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Mari.Rskin.v1.2.3.apk)                       |
+| ![](/asset/logo/nanobot.r23.png) | Nanobot.r23 Skin       | v1.1 (2) | [Nanobot.r23Skin v1.1(2).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Nanobot.r23Skin.v1.1.2.apk)             |
+| ![](/asset/logo/starsyl.png)     | StarSyL Skin           | v1.0 (1) | [StarSyLskin v1.0(1).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/StarSyLskin.v1.0.1.apk)                     |
+| ![](/asset/logo/tato.png)        | Skin para ANeko Tato   | v1.1 (2) | [TatoSkin v1.1(2).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/TatoSkin.v1.1.2.apk)                           |
+| ![](/asset/logo/ufoa1.png)       | ANeko skin Ufo A1      | v1.0 (1) | [Ufo A1 for ANeko v1.0(1).apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Ufo.A1.for.ANeko.v1.0.1.apk)           |
+| ![](/asset/logo/chocola1.png)    | Chocola1               | v1.0     | [Chocola1.v1.0.apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Chocola1.v1.0.apk)                                |
+| ![](/asset/logo/evee.png)        | Evee                   | v1.0     | [Eevee.for.ANeko_1.0.apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Eevee.for.ANeko_1.0.apk)                    |
 
 ---
 
