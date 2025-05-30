@@ -42,6 +42,7 @@ and download your favorites below:
 | <img src="/asset/logo/evee.png" width="64" style="display:block; margin:auto;" />        | Evee                   | v1.0      | [Eevee.for.ANeko_1.0.apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Eevee.for.ANeko_1.0.apk)                    |
 | <img src="/asset/logo/skitty.png" width="64" style="display:block; margin:auto;" />      | Skitty for ANeko       | D'awww    | [Skitty.D'awww.apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Skitty.D.awww.apk)                                |
 | <img src="/asset/logo/niko.png" width="64" style="display:block; margin:auto;" />        | Niko Oneshot           | v1.1.0(2) | [niko.v1.1.0.2.apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/niko.v1.1.0.2.apk)                                |
+| <img src="/asset/logo/diablito.png" width="64" style="display:block; margin:auto;" />    | Diablito               | v1.1.0(1) | [diablito.v1.0.0.1.apk](https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/diablito.v1.0.0.1.apk)                        |
 
 ---
 
