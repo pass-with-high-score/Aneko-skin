@@ -1,13 +1,13 @@
 [
   {
-    "name": "Alien Skin",
+    "name": "Alien",
     "package": "com.aneko.skin.alien",
     "version": "v1.2 (3)",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/alien.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/AlienSkin.v1.2.3.apk"
   },
   {
-    "name": "ANeko skin AquaNeon",
+    "name": "AquaNeon",
     "package": "com.aneko.skin.aquaneon",
     "version": "v1.3 (4)",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/aquaneon.png",
@@ -28,21 +28,21 @@
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/bugy.v1.0.0.1.apk"
   },
   {
-    "name": "Bxter Skin",
+    "name": "Bxter",
     "package": "com.aneko.skin.bxter",
     "version": "v1.0 (1)",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/bxter.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Bxterskin.v1.0.1.apk"
   },
   {
-    "name": "ANeko skin Caza1",
+    "name": "Caza1",
     "package": "com.aneko.skin.caza1",
     "version": "v1.1 (2)",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/caza1.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Caza1Skin.v1.1.2.apk"
   },
   {
-    "name": "Colibri Skin for ANeko",
+    "name": "Colibri",
     "package": "com.aneko.skin.colibri",
     "version": "v1.3 (4)",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/colibri.png",
@@ -63,21 +63,21 @@
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/jerry.apk"
   },
   {
-    "name": "ANeko skin Mari.R",
+    "name": "Mari.R",
     "package": "com.aneko.skin.marir",
     "version": "v1.2 (3)",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/marir.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Mari.Rskin.v1.2.3.apk"
   },
   {
-    "name": "Nanobot.r23 Skin",
+    "name": "Nanobot.r23",
     "package": "com.aneko.skin.nanobotr23",
     "version": "v1.1 (2)",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/nanobot.r23.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Nanobot.r23Skin.v1.1.2.apk"
   },
   {
-    "name": "StarSyL Skin",
+    "name": "StarSyL",
     "package": "com.aneko.skin.starsyl",
     "version": "v1.0 (1)",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/starsyl.png",
@@ -91,7 +91,7 @@
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/tato.v1.0.0.1.apk"
   },
   {
-    "name": "ANeko skin Ufo A1",
+    "name": "Ufo A1",
     "package": "com.aneko.skin.ufoa1",
     "version": "v1.0 (1)",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/ufoa1.png",
@@ -112,7 +112,7 @@
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Eevee.for.ANeko_1.0.apk"
   },
   {
-    "name": "Skitty for ANeko",
+    "name": "Skitty",
     "package": "com.aneko.skin.skitty",
     "version": "D'awww",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/skitty.png",
