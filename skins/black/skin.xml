@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <motion-params
-        name="Aqua Neon"
+        name="Black"
         acceleration="160"
         author="nqmgaming"
         awakeState="awake"
@@ -8,7 +8,7 @@
         initialState="stop"
         maxVelocity="100"
         moveStatePrefix="move"
-        package="org.nqmgaming.aquaneon"
+        package="org.nqmgaming.black"
         preview="icon.png"
         proximityDistance="10"
         wallStatePrefix="wall">
@@ -51,22 +51,16 @@
         </repeat-item>
         <item
                 drawable="mati1"
-                duration="300" />
+                duration="250" />
         <item
                 drawable="akubi2"
-                duration="300" />
+                duration="250" />
         <item
                 drawable="mati1"
-                duration="300" />
+                duration="250" />
         <item
                 drawable="akubi2"
-                duration="300" />
-        <item
-                drawable="mati1"
-                duration="300" />
-        <item
-                drawable="akubi2"
-                duration="300" />
+                duration="250" />
         <item
                 drawable="mati1"
                 duration="3000" />
@@ -247,7 +241,7 @@
     <motion
             nextState="wait"
             state="wallLeft">
-        <repeat-item repeatCount="7">
+        <repeat-item repeatCount="4">
             <item
                     drawable="ltogi1"
                     duration="250" />
@@ -271,7 +265,7 @@
     <motion
             nextState="wait"
             state="wallRight">
-        <repeat-item repeatCount="7">
+        <repeat-item repeatCount="4">
             <item
                     drawable="rtogi1"
                     duration="250" />
