@@ -1,5 +1,12 @@
 [
   {
+    "name": "ANeko",
+    "package": "org.nqmgaming.aneko",
+    "version": "v1.2",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/aneko.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/aneko.zip"
+  },
+  {
     "name": "Alien",
     "package": "org.tamanegi.aneko.skin.Alien",
     "version": "v1.2",
