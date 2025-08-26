@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <motion-params
+        package="org.nqmgaming.aquaneon"
         name="Aqua Neon"
-        acceleration="160"
+        preview="icon.png"
         author="nqmgaming"
+        acceleration="160"
         awakeState="awake"
         deaccelerationDistance="60"
         initialState="stop"
         maxVelocity="100"
         moveStatePrefix="move"
-        package="org.nqmgaming.aquaneon"
-        preview="icon.png"
         proximityDistance="10"
         wallStatePrefix="wall">
     <motion
