@@ -3,15 +3,16 @@
     "name": "ANeko",
     "package": "org.nqmgaming.aneko",
     "version": "v1.2",
+    "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/aneko.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/aneko.zip"
   },
   {
     "name": "Alien",
-    "package": "org.tamanegi.aneko.skin.Alien",
+    "package": "org.nqmgaming.alien",
     "version": "v1.2",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/alien.png",
-    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/AlienSkin.v1.2.3.apk"
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/alien.zip"
   },
   {
     "name": "AquaNeon",
