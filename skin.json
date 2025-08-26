@@ -16,38 +16,38 @@
   },
   {
     "name": "AquaNeon",
-    "package": "org.tamanegi.aneko.skin.AquaNeon",
+    "package": "org.nqmgaming.aquaneon",
     "version": "v1.3",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/aquaneon.png",
-    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/AquaNeonSkin.v1.3.4.apk"
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/aquaneon.zip"
   },
   {
-    "name": "Black2",
-    "package": "com.nqmgaming.black2",
+    "name": "Black",
+    "package": "org.nqmgaming.black",
     "version": "v1.0.0",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/black2.png",
-    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/black2.apk"
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/black.zip"
   },
   {
     "name": "Bugy",
-    "package": "com.nqmgaming.tato",
+    "package": "org.nqmgaming.bugy",
     "version": "v1.0.0",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/bugy.png",
-    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/bugy.v1.0.0.1.apk"
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/bugy.zip"
   },
   {
     "name": "Bxter",
-    "package": "org.tamanegi.aneko.skin.Bxter",
+    "package": "org.nqmgaming.bxter",
     "version": "v1.0.0",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/bxter.png",
-    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Bxterskin.v1.0.1.apk"
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/bxter.zip"
   },
   {
-    "name": "Caza1",
-    "package": "org.tamanegi.aneko.skin.Caza1",
+    "name": "Caza",
+    "package": "org.nqmgaming.caza",
     "version": "v1.1",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/caza1.png",
-    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skin1/Caza1Skin.v1.1.2.apk"
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/caza.zip"
   },
   {
     "name": "Colibri",
