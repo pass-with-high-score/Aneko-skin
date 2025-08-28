@@ -54,5 +54,13 @@
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/caza1.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/caza.zip"
+  },
+  {
+    "name": "MicroBot",
+    "package": "org.nqmgaming.microbot",
+    "version": "v1.1",
+    "author": "nqmgaming",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/microbot.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/microbot.zip"
   }
 ]
