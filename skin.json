@@ -70,5 +70,29 @@
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/colibri.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/colibri.zip"
+  },
+  {
+    "name": "DeeDee",
+    "package": "org.nqmgaming.deedee",
+    "version": "v1.1",
+    "author": "nqmgaming",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/deedee.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/deedee.zip"
+  },
+  {
+    "name": "Jerry",
+    "package": "org.nqmgaming.jerry",
+    "version": "v1.1",
+    "author": "nqmgaming",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/jerry.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/jerry.zip"
+  },
+  {
+    "name": "Mari.R",
+    "package": "org.nqmgaming.mari.R",
+    "version": "v1.1",
+    "author": "nqmgaming",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/mari-R.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/mari-R.zip"
   }
 ]
