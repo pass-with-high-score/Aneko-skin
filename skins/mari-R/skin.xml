@@ -1,183 +1,295 @@
 <?xml version="1.0" encoding="utf-8"?>
-<motion-params acceleration="160" maxVelocity="100" deaccelerationDistance="60" proximityDistance="10" initialState="stop" awakeState="awake" moveStatePrefix="move" wallStatePrefix="wall">
-    <motion state="stop" nextState="wait" checkWall="true">
-        <item drawable="@drawable/mati1" duration="150" />
-        <item drawable="@drawable/mati2" duration="150" />
-        <item drawable="@drawable/mati1" duration="150" />
-        <item drawable="@drawable/mati2" duration="150" />
-        <item drawable="@drawable/mati1" duration="150" />
-        <item drawable="@drawable/mati2" duration="150" />
-        <repeat-item repeatCount="10">
-            <item drawable="@drawable/mati3" duration="150" />
-            <item drawable="@drawable/mati4" duration="150" />
+<motion-params
+        package="org.nqmgaming.deedee"
+        name="DeeDee"
+        preview="icon.png"
+        author="nqmgaming"
+        acceleration="160"
+        awakeState="awake"
+        deaccelerationDistance="60"
+        initialState="stop"
+        maxVelocity="100"
+        moveStatePrefix="move"
+        proximityDistance="10"
+        wallStatePrefix="wall">
+    <motion
+            checkWall="true"
+            nextState="wait"
+            state="stop">
+        <item
+                drawable="mati1"
+                duration="5000" />
+        <item
+                drawable="mati1a"
+                duration="120" />
+        <item
+                drawable="mati1"
+                duration="5000" />
+        <repeat-item repeatCount="6">
+            <item
+                    drawable="kaki1"
+                    duration="250" />
+            <item
+                    drawable="kaki2"
+                    duration="250" />
         </repeat-item>
-        <repeat-item repeatCount="15">
-            <item drawable="@drawable/mati3a" duration="200" />
-            <item drawable="@drawable/mati4a" duration="200" />
-        </repeat-item>
-        <repeat-item repeatCount="10">
-            <item drawable="@drawable/mati3" duration="200" />
-            <item drawable="@drawable/mati4" duration="200" />
-        </repeat-item>
+        <item
+                drawable="mati1"
+                duration="1000" />
     </motion>
     <motion state="wait">
-        <item drawable="@drawable/mati1" duration="200" />
+        <item
+                drawable="mati1"
+                duration="4000" />
         <repeat-item repeatCount="6">
-            <item drawable="@drawable/kaki1" duration="100" />
-            <item drawable="@drawable/kaki2" duration="100" />
+            <item
+                    drawable="kaki1"
+                    duration="250" />
+            <item
+                    drawable="kaki2"
+                    duration="250" />
         </repeat-item>
-        <item drawable="@drawable/kaki1" duration="100" />
-        <item drawable="@drawable/kaki2" duration="100" />
-        <item drawable="@drawable/kaki1" duration="100" />
-        <item drawable="@drawable/kaki2" duration="100" />
-        <item drawable="@drawable/kaki1" duration="100" />
-        <item drawable="@drawable/kaki2" duration="100" />
-        <item drawable="@drawable/kaki1" duration="150" />
-        <item drawable="@drawable/kaki2" duration="150" />
-        <item drawable="@drawable/kaki1" duration="200" />
-        <item drawable="@drawable/kaki2" duration="200" />
-        <item drawable="@drawable/kaki1" duration="250" />
-        <item drawable="@drawable/kaki2" duration="250" />
-        <item drawable="@drawable/kaki1" duration="250" />
-        <item drawable="@drawable/kaki2" duration="250" />
-        <item drawable="@drawable/kaki1" duration="250" />
-        <item drawable="@drawable/kaki2" duration="250" />
-        <item drawable="@drawable/kaki1" duration="300" />
-        <item drawable="@drawable/kaki2" duration="300" />
-        <item drawable="@drawable/kaki1" duration="300" />
-        <item drawable="@drawable/kaki2" duration="300" />
-        <item drawable="@drawable/kaki1" duration="300" />
-        <item drawable="@drawable/kaki2" duration="300" />
-        <item drawable="@drawable/akubi2" duration="1000" />
+        <item
+                drawable="mati1"
+                duration="250" />
+        <item
+                drawable="akubi2"
+                duration="250" />
+        <item
+                drawable="mati1"
+                duration="250" />
+        <item
+                drawable="akubi2"
+                duration="250" />
+        <item
+                drawable="mati1"
+                duration="300" />
+        <item
+                drawable="akubi2"
+                duration="300" />
+        <item
+                drawable="mati1"
+                duration="3000" />
+        <item
+                drawable="mati2"
+                duration="2000" />
         <repeat-item>
             <repeat-item repeatCount="50">
-                <item drawable="@drawable/sleep1" duration="1000" />
-                <item drawable="@drawable/sleep2" duration="1000" />
+                <item
+                        drawable="sleep1"
+                        duration="1000" />
+                <item
+                        drawable="sleep2"
+                        duration="1000" />
             </repeat-item>
         </repeat-item>
     </motion>
-    <motion state="awake" nextState="stop" checkMove="true">
-        <item drawable="@drawable/awake" duration="200" />
-        <item drawable="@drawable/awake2" duration="200" />
-        <item drawable="@drawable/awake" duration="200" />
-        <item drawable="@drawable/awake2" duration="200" />
+    <motion
+            checkMove="true"
+            nextState="stop"
+            state="awake">
+        <item
+                drawable="awake"
+                duration="750" />
     </motion>
     <motion state="moveUp">
         <repeat-item>
-            <item drawable="@drawable/up1" duration="150" />
-            <item drawable="@drawable/up2" duration="150" />
+            <item
+                    drawable="up1"
+                    duration="250" />
+            <item
+                    drawable="up2"
+                    duration="250" />
         </repeat-item>
     </motion>
     <motion state="moveDown">
         <repeat-item>
-            <item drawable="@drawable/down1" duration="200" />
-            <item drawable="@drawable/down2" duration="200" />
+            <item
+                    drawable="down1"
+                    duration="250" />
+            <item
+                    drawable="down2"
+                    duration="250" />
         </repeat-item>
     </motion>
     <motion state="moveLeft">
         <repeat-item>
-            <item drawable="@drawable/left1" duration="200" />
-            <item drawable="@drawable/left2" duration="200" />
+            <item
+                    drawable="left1"
+                    duration="250" />
+            <item
+                    drawable="left2"
+                    duration="250" />
         </repeat-item>
     </motion>
     <motion state="moveRight">
         <repeat-item>
-            <item drawable="@drawable/right1" duration="200" />
-            <item drawable="@drawable/right2" duration="200" />
+            <item
+                    drawable="right1"
+                    duration="250" />
+            <item
+                    drawable="right2"
+                    duration="250" />
         </repeat-item>
     </motion>
     <motion state="moveUpLeft">
         <repeat-item>
-            <item drawable="@drawable/upleft1" duration="150" />
-            <item drawable="@drawable/upleft2" duration="150" />
+            <item
+                    drawable="upleft1"
+                    duration="250" />
+            <item
+                    drawable="upleft2"
+                    duration="250" />
         </repeat-item>
     </motion>
     <motion state="moveUpRight">
         <repeat-item>
-            <item drawable="@drawable/upright1" duration="150" />
-            <item drawable="@drawable/upright2" duration="150" />
+            <item
+                    drawable="upright1"
+                    duration="250" />
+            <item
+                    drawable="upright2"
+                    duration="250" />
         </repeat-item>
     </motion>
     <motion state="moveDownRight">
         <repeat-item>
-            <item drawable="@drawable/dwright1" duration="200" />
-            <item drawable="@drawable/dwright2" duration="200" />
+            <item
+                    drawable="dwright1"
+                    duration="250" />
+            <item
+                    drawable="dwright2"
+                    duration="250" />
         </repeat-item>
     </motion>
     <motion state="moveDownLeft">
         <repeat-item>
-            <item drawable="@drawable/dwleft1" duration="200" />
-            <item drawable="@drawable/dwleft2" duration="200" />
+            <item
+                    drawable="dwleft1"
+                    duration="220" />
+            <item
+                    drawable="dwleft2"
+                    duration="220" />
         </repeat-item>
     </motion>
-    <motion state="wallDown" nextState="wait">
-        <repeat-item repeatCount="3">
-            <item drawable="@drawable/dtogi1" duration="150" />
-            <item drawable="@drawable/dtogi2" duration="150" />
-            <item drawable="@drawable/dtogi1" duration="15" />
-            <item drawable="@drawable/dtogi2" duration="150" />
-            <item drawable="@drawable/dtogi1" duration="150" />
-            <item drawable="@drawable/dtogi2" duration="150" />
-            <item drawable="@drawable/dtogi1" duration="150" />
-            <item drawable="@drawable/dtogi2" duration="150" />
-            <item drawable="@drawable/dtogi1" duration="150" />
-            <item drawable="@drawable/dtogi2" duration="150" />
+    <motion
+            nextState="wait"
+            state="wallDown">
+        <repeat-item repeatCount="6">
+            <item
+                    drawable="dtogi1"
+                    duration="250" />
+            <item
+                    drawable="dtogi2"
+                    duration="250" />
+            <item
+                    drawable="dtogi1"
+                    duration="250" />
+            <item
+                    drawable="dtogi2"
+                    duration="250" />
+            <item
+                    drawable="dtogi1"
+                    duration="250" />
+            <item
+                    drawable="dtogi2"
+                    duration="250" />
+            <item
+                    drawable="dtogi1"
+                    duration="250" />
+            <item
+                    drawable="dtogi2"
+                    duration="250" />
+            <item
+                    drawable="dtogi1"
+                    duration="250" />
+            <item
+                    drawable="dtogi2"
+                    duration="250" />
         </repeat-item>
     </motion>
-    <motion state="wallUp" nextState="wait">
-        <repeat-item repeatCount="1">
-            <item drawable="@drawable/utogi0" duration="4000" />
-            <item drawable="@drawable/utogi0a" duration="350" />
-            <item drawable="@drawable/utogi0" duration="350" />
-            <item drawable="@drawable/utogi0a" duration="350" />
-            <item drawable="@drawable/utogi0" duration="350" />
-            <item drawable="@drawable/utogi0a" duration="350" />
-            <item drawable="@drawable/utogi0" duration="350" />
-            <item drawable="@drawable/utogi1" duration="2000" />
-            <item drawable="@drawable/utogi1" duration="200" />
-            <item drawable="@drawable/utogi2" duration="200" />
-            <item drawable="@drawable/utogi3" duration="200" />
-            <item drawable="@drawable/utogi4" duration="200" />
-            <item drawable="@drawable/utogi5" duration="200" />
-            <item drawable="@drawable/utogi6" duration="200" />
-            <item drawable="@drawable/utogi7" duration="200" />
-            <item drawable="@drawable/utogi8" duration="200" />
-            <item drawable="@drawable/utogi9" duration="200" />
-            <item drawable="@drawable/utogi10" duration="200" />
-            <item drawable="@drawable/utogi11" duration="200" />
-            <item drawable="@drawable/utogi12" duration="200" />
-            <item drawable="@drawable/utogi13" duration="200" />
-            <item drawable="@drawable/utogi13" duration="4000" />
+    <motion
+            nextState="wait"
+            state="wallUp">
+        <repeat-item repeatCount="6">
+            <item
+                    drawable="utogi1"
+                    duration="250" />
+            <item
+                    drawable="utogi2"
+                    duration="250" />
+            <item
+                    drawable="utogi1"
+                    duration="250" />
+            <item
+                    drawable="utogi2"
+                    duration="250" />
+            <item
+                    drawable="utogi1"
+                    duration="250" />
+            <item
+                    drawable="utogi2"
+                    duration="250" />
+            <item
+                    drawable="utogi1"
+                    duration="250" />
+            <item
+                    drawable="utogi2"
+                    duration="250" />
+            <item
+                    drawable="utogi1"
+                    duration="250" />
+            <item
+                    drawable="utogi2"
+                    duration="250" />
         </repeat-item>
     </motion>
-    <motion state="wallLeft" nextState="wait">
-        <repeat-item repeatCount="1">
-            <item drawable="@drawable/ltogi1" duration="2000" />
-            <item drawable="@drawable/ltogi1" duration="250" />
-            <item drawable="@drawable/ltogi2" duration="250" />
-            <item drawable="@drawable/ltogi3" duration="250" />
-            <item drawable="@drawable/ltogi4" duration="250" />
-            <item drawable="@drawable/ltogi5" duration="250" />
-            <item drawable="@drawable/ltogi6" duration="250" />
-            <item drawable="@drawable/ltogi7" duration="250" />
-            <item drawable="@drawable/ltogi8" duration="250" />
-            <item drawable="@drawable/ltogi9" duration="250" />
-            <item drawable="@drawable/ltogi10" duration="250" />
-            <item drawable="@drawable/ltogi11" duration="250" />
-            <item drawable="@drawable/ltogi12" duration="250" />
-            <item drawable="@drawable/ltogi13" duration="250" />
-            <item drawable="@drawable/ltogi14" duration="250" />
-            <item drawable="@drawable/ltogi14" duration="4000" />
+    <motion
+            nextState="wait"
+            state="wallLeft">
+        <repeat-item repeatCount="10">
+            <item
+                    drawable="ltogi1"
+                    duration="250" />
+            <item
+                    drawable="ltogi2"
+                    duration="250" />
+            <item
+                    drawable="ltogi1"
+                    duration="250" />
+            <item
+                    drawable="ltogi2"
+                    duration="250" />
+            <item
+                    drawable="ltogi1"
+                    duration="250" />
+            <item
+                    drawable="ltogi2"
+                    duration="250" />
         </repeat-item>
     </motion>
-    <motion state="wallRight" nextState="wait">
-        <repeat-item repeatCount="15">
-            <item drawable="@drawable/rtogi1" duration="200" />
-            <item drawable="@drawable/rtogi2" duration="200" />
-            <item drawable="@drawable/rtogi1" duration="200" />
-            <item drawable="@drawable/rtogi2" duration="200" />
-            <item drawable="@drawable/rtogi1" duration="200" />
-            <item drawable="@drawable/rtogi2" duration="200" />
+    <motion
+            nextState="wait"
+            state="wallRight">
+        <repeat-item repeatCount="10">
+            <item
+                    drawable="rtogi1"
+                    duration="250" />
+            <item
+                    drawable="rtogi2"
+                    duration="250" />
+            <item
+                    drawable="rtogi1"
+                    duration="250" />
+            <item
+                    drawable="rtogi2"
+                    duration="250" />
+            <item
+                    drawable="rtogi1"
+                    duration="250" />
+            <item
+                    drawable="rtogi2"
+                    duration="250" />
         </repeat-item>
     </motion>
 </motion-params>
