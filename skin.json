@@ -94,5 +94,45 @@
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/mari-R.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/mari-R.zip"
+  },
+  {
+    "name": "StarSyL",
+    "package": "org.nqmgaming.star.sy.l",
+    "version": "v1.1",
+    "author": "nqmgaming",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/star-sy-l.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/star-sy-l.zip"
+  },
+  {
+    "name": "UFO A1",
+    "package": "org.nqmgaming.ufo.a1",
+    "version": "v1.1",
+    "author": "nqmgaming",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/ufo-a1.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/ufo-a1.zip"
+  },
+  {
+    "name": "Chocola",
+    "package": "org.nqmgaming.chocola",
+    "version": "v1.1",
+    "author": "nqmgaming",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/chocola.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/chocola.zip"
+  },
+  {
+    "name": "Tato",
+    "package": "org.nqmgaming.tato",
+    "version": "v1.1",
+    "author": "nqmgaming",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/tato.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/tato.zip"
+  },
+  {
+    "name": "Eevee",
+    "package": "org.nqmgaming.eevee",
+    "version": "v1.1",
+    "author": "nqmgaming",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/eevee.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/eevee.zip"
   }
 ]
