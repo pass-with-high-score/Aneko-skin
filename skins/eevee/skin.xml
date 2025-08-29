@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<motion-params acceleration="100" awakeState="awake" deaccelerationDistance="60" initialState="stop" maxVelocity="50" moveStatePrefix="move" proximityDistance="10">
+    <motion state="stop">
+        <repeat-item>
+            <item drawable="@drawable/down1" duration="3000" />
+            <item drawable="@drawable/arotate6" duration="600" />
+            <item drawable="@drawable/arotate7" duration="600" />
+            <item drawable="@drawable/arotate6" duration="600" />
+            <item drawable="@drawable/arotate7" duration="600" />
+            <item drawable="@drawable/down1" duration="3000" />
+            <item drawable="@drawable/arotate6" duration="600" />
+            <item drawable="@drawable/arotate7" duration="600" />
+            <item drawable="@drawable/arotate6" duration="600" />
+            <item drawable="@drawable/arotate7" duration="600" />
+            <item drawable="@drawable/down1" duration="3000" />
+            <repeat-item repeatCount="6">
+                <item drawable="@drawable/arotate1" duration="1000" />
+                <item drawable="@drawable/arotate2" duration="1000" />
+            </repeat-item>
+            <item drawable="@drawable/down1" duration="1000" />
+            <item drawable="@drawable/arotate8" duration="1000" />
+            <item drawable="@drawable/down1" duration="1000" />
+            <item drawable="@drawable/arotate8" duration="1000" />
+            <item drawable="@drawable/down1" duration="3000" />
+            <repeat-item repeatCount="6">
+                <item drawable="@drawable/arotate3" duration="200" />
+                <item drawable="@drawable/arotate5" duration="200" />
+                <item drawable="@drawable/arotate3" duration="200" />
+                <item drawable="@drawable/arotate4" duration="200" />
+            </repeat-item>
+            <item drawable="@drawable/down3" duration="5000" />
+        </repeat-item>
+    </motion>
+    <motion checkMove="true" nextState="stop" state="awake">
+        <item drawable="@drawable/arotate8" duration="750" />
+        <item drawable="@drawable/down1" duration="750" />
+    </motion>
+    <motion state="moveUp">
+        <repeat-item>
+            <item drawable="@drawable/up1" duration="250" />
+            <item drawable="@drawable/up2" duration="250" />
+            <item drawable="@drawable/up3" duration="250" />
+        </repeat-item>
+    </motion>
+    <motion state="moveDown">
+        <repeat-item>
+            <item drawable="@drawable/down1" duration="250" />
+            <item drawable="@drawable/down2" duration="250" />
+            <item drawable="@drawable/down3" duration="250" />
+        </repeat-item>
+    </motion>
+    <motion state="moveLeft">
+        <repeat-item>
+            <item drawable="@drawable/left1" duration="250" />
+            <item drawable="@drawable/left2" duration="250" />
+            <item drawable="@drawable/left3" duration="250" />
+        </repeat-item>
+    </motion>
+    <motion state="moveRight">
+        <repeat-item>
+            <item drawable="@drawable/right1" duration="250" />
+            <item drawable="@drawable/right2" duration="250" />
+            <item drawable="@drawable/right3" duration="250" />
+        </repeat-item>
+    </motion>
+    <motion state="moveUpLeft">
+        <repeat-item>
+            <item drawable="@drawable/upleft1" duration="250" />
+            <item drawable="@drawable/upleft2" duration="250" />
+            <item drawable="@drawable/upleft3" duration="250" />
+        </repeat-item>
+    </motion>
+    <motion state="moveUpRight">
+        <repeat-item>
+            <item drawable="@drawable/upright1" duration="250" />
+            <item drawable="@drawable/upright2" duration="250" />
+            <item drawable="@drawable/upright3" duration="250" />
+        </repeat-item>
+    </motion>
+    <motion state="moveDownRight">
+        <repeat-item>
+            <item drawable="@drawable/dwright1" duration="250" />
+            <item drawable="@drawable/dwright2" duration="250" />
+            <item drawable="@drawable/dwright3" duration="250" />
+        </repeat-item>
+    </motion>
+    <motion state="moveDownLeft">
+        <repeat-item>
+            <item drawable="@drawable/dwleft1" duration="250" />
+            <item drawable="@drawable/dwleft2" duration="250" />
+            <item drawable="@drawable/dwleft3" duration="250" />
+        </repeat-item>
+    </motion>
+</motion-params>
