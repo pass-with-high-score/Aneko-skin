@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <motion-params
-        package="org.nqmgaming.eevee"
-        name="Eevee"
+        package="org.nqmgaming.evee"
+        name="Evee"
         preview="icon.png"
         author="nqmgaming"
         acceleration="100"
