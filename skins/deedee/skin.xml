@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <motion-params
-        package="org.nqmgaming.tato"
-        name="Tato"
+        package="org.nqmgaming.deedee"
+        name="DeeDee"
         preview="icon.png"
         author="nqmgaming"
         acceleration="160"
