@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<motion-params
+        package="org.nqmgaming.mini"
+        name="Mini"
+        preview="icon.png"
+        author="nqmgaming"
+        acceleration="160"
+        awakeState="awake"
+        deaccelerationDistance="60"
+        initialState="stop"
+        maxVelocity="100"
+        moveStatePrefix="move"
+        proximityDistance="10"
+        wallStatePrefix="wall">
+    <motion
+            checkWall="true"
+            nextState="wait"
+            state="stop">
+        <item
+                drawable="stop0"
+                duration="1000" />
+        <item
+                drawable="stop3"
+                duration="100" />
+        <item
+                drawable="stop0"
+                duration="1000" />
+        <repeat-item repeatCount="3">
+            <item
+                    drawable="stop1"
+                    duration="500" />
+            <item
+                    drawable="stop0"
+                    duration="200" />
+        </repeat-item>
+    </motion>
+    <motion state="wait">
+        <item
+                drawable="stop0"
+                duration="1000" />
+        <item
+                drawable="stop2"
+                duration="1000" />
+        <item
+                drawable="left0"
+                duration="1000" />
+        <item
+                drawable="stop0"
+                duration="1000" />
+        <item
+                drawable="right0"
+                duration="1000" />
+        <item
+                drawable="stop0"
+                duration="1000" />
+        <repeat-item repeatCount="15">
+            <item
+                    drawable="sleep0"
+                    duration="1000" />
+            <item
+                    drawable="sleep3"
+                    duration="1000" />
+        </repeat-item>
+        <item
+                drawable="sleep3"
+                duration="200" />
+    </motion>
+    <motion
+            checkMove="true"
+            nextState="stop"
+            state="awake">
+        <item
+                drawable="stop0"
+                duration="300" />
+        <item
+                drawable="stop1"
+                duration="1000" />
+        <item
+                drawable="stop0"
+                duration="300" />
+    </motion>
+    <motion state="moveUp">
+        <repeat-item>
+            <item
+                    drawable="up0"
+                    duration="200" />
+            <item
+                    drawable="up1"
+                    duration="200" />
+            <item
+                    drawable="up2"
+                    duration="200" />
+        </repeat-item>
+    </motion>
+    <motion state="moveDown">
+        <repeat-item>
+            <item
+                    drawable="down0"
+                    duration="200" />
+            <item
+                    drawable="down1"
+                    duration="200" />
+            <item
+                    drawable="down2"
+                    duration="200" />
+        </repeat-item>
+    </motion>
+    <motion state="moveLeft">
+        <repeat-item>
+            <item
+                    drawable="left0"
+                    duration="200" />
+            <item
+                    drawable="left2"
+                    duration="200" />
+            <item
+                    drawable="left2"
+                    duration="200" />
+        </repeat-item>
+    </motion>
+    <motion state="moveRight">
+        <repeat-item>
+            <item
+                    drawable="right0"
+                    duration="200" />
+            <item
+                    drawable="right1"
+                    duration="200" />
+            <item
+                    drawable="right2"
+                    duration="200" />
+        </repeat-item>
+    </motion>
+    <motion state="moveUpLeft">
+        <repeat-item>
+            <item
+                    drawable="upleft0"
+                    duration="200" />
+            <item
+                    drawable="upleft1"
+                    duration="200" />
+        </repeat-item>
+    </motion>
+    <motion state="moveUpRight">
+        <repeat-item>
+            <item
+                    drawable="upright0"
+                    duration="200" />
+            <item
+                    drawable="upright1"
+                    duration="200" />
+        </repeat-item>
+    </motion>
+    <motion state="moveDownRight">
+        <repeat-item>
+            <item
+                    drawable="downright0"
+                    duration="200" />
+            <item
+                    drawable="downright1"
+                    duration="200" />
+        </repeat-item>
+    </motion>
+    <motion state="moveDownLeft">
+        <repeat-item>
+            <item
+                    drawable="downleft0"
+                    duration="200" />
+            <item
+                    drawable="downleft1"
+                    duration="200" />
+        </repeat-item>
+    </motion>
+    <motion
+            nextState="wait"
+            state="wallDown">
+        <repeat-item repeatCount="2">
+            <item
+                    drawable="down0"
+                    duration="120" />
+            <item
+                    drawable="down1"
+                    duration="120" />
+            <item
+                    drawable="down2"
+                    duration="120" />
+            <item
+                    drawable="down3"
+                    duration="150" />
+        </repeat-item>
+    </motion>
+    <motion
+            nextState="wait"
+            state="wallUp">
+        <repeat-item repeatCount="2">
+            <item
+                    drawable="up0"
+                    duration="120" />
+            <item
+                    drawable="up1"
+                    duration="120" />
+            <item
+                    drawable="up2"
+                    duration="120" />
+            <item
+                    drawable="up3"
+                    duration="150" />
+        </repeat-item>
+    </motion>
+    <motion
+            nextState="wait"
+            state="wallLeft">
+        <repeat-item repeatCount="2">
+            <item
+                    drawable="left0"
+                    duration="120" />
+            <item
+                    drawable="left1"
+                    duration="120" />
+            <item
+                    drawable="left2"
+                    duration="120" />
+            <item
+                    drawable="left3"
+                    duration="150" />
+        </repeat-item>
+    </motion>
+    <motion
+            nextState="wait"
+            state="wallRight">
+        <repeat-item repeatCount="2">
+            <item
+                    drawable="right0"
+                    duration="120" />
+            <item
+                    drawable="right1"
+                    duration="120" />
+            <item
+                    drawable="right2"
+                    duration="120" />
+            <item
+                    drawable="right3"
+                    duration="150" />
+        </repeat-item>
+    </motion>
+</motion-params>
