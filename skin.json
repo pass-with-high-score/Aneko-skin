@@ -2,7 +2,7 @@
   {
     "name": "ANeko",
     "package": "org.nqmgaming.aneko",
-    "version": "v1.2",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/aneko.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/aneko.zip"
@@ -10,7 +10,7 @@
   {
     "name": "Alien",
     "package": "org.nqmgaming.alien",
-    "version": "v1.2",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/alien.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/alien.zip"
@@ -18,7 +18,7 @@
   {
     "name": "AquaNeon",
     "package": "org.nqmgaming.aquaneon",
-    "version": "v1.3",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/aquaneon.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/aquaneon.zip"
@@ -26,7 +26,7 @@
   {
     "name": "Black",
     "package": "org.nqmgaming.black",
-    "version": "v1.0.0",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/black2.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/black.zip"
@@ -34,7 +34,7 @@
   {
     "name": "Bugy",
     "package": "org.nqmgaming.bugy",
-    "version": "v1.0.0",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/bugy.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/bugy.zip"
@@ -42,7 +42,7 @@
   {
     "name": "Bxter",
     "package": "org.nqmgaming.bxter",
-    "version": "v1.0.0",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/bxter.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/bxter.zip"
@@ -50,7 +50,7 @@
   {
     "name": "Caza",
     "package": "org.nqmgaming.caza",
-    "version": "v1.1",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/caza1.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/caza.zip"
@@ -58,7 +58,7 @@
   {
     "name": "MicroBot",
     "package": "org.nqmgaming.microbot",
-    "version": "v1.1",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/microbot.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/microbot.zip"
@@ -66,7 +66,7 @@
   {
     "name": "Colibri",
     "package": "org.nqmgaming.colibri",
-    "version": "v1.1",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/colibri.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/colibri.zip"
@@ -74,7 +74,7 @@
   {
     "name": "DeeDee",
     "package": "org.nqmgaming.deedee",
-    "version": "v1.1",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/deedee.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/deedee.zip"
@@ -82,7 +82,7 @@
   {
     "name": "Jerry",
     "package": "org.nqmgaming.jerry",
-    "version": "v1.1",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/jerry.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/jerry.zip"
@@ -90,7 +90,7 @@
   {
     "name": "Mari.R",
     "package": "org.nqmgaming.mari.R",
-    "version": "v1.1",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/mari-R.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/mari-R.zip"
@@ -98,7 +98,7 @@
   {
     "name": "StarSyL",
     "package": "org.nqmgaming.star.sy.l",
-    "version": "v1.1",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/star-sy-l.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/star-sy-l.zip"
@@ -106,7 +106,7 @@
   {
     "name": "UFO A1",
     "package": "org.nqmgaming.ufo.a1",
-    "version": "v1.1",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/ufo-a1.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/ufo-a1.zip"
@@ -114,7 +114,7 @@
   {
     "name": "Chocola",
     "package": "org.nqmgaming.chocola",
-    "version": "v1.1",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/chocola.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/chocola.zip"
@@ -122,7 +122,7 @@
   {
     "name": "Tato",
     "package": "org.nqmgaming.tato",
-    "version": "v1.1",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/tato.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/tato.zip"
@@ -130,7 +130,7 @@
   {
     "name": "Evee",
     "package": "org.nqmgaming.evee",
-    "version": "v1.1",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/evee.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/evee.zip"
@@ -138,7 +138,7 @@
   {
     "name": "Mini",
     "package": "org.nqmgaming.mini",
-    "version": "v1.1",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/mini.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/mini.zip"
@@ -146,7 +146,7 @@
   {
     "name": "Diablito",
     "package": "org.nqmgaming.diablito",
-    "version": "v1.1",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/diablito.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/diablito.zip"
@@ -154,7 +154,7 @@
   {
     "name": "Niko",
     "package": "org.nqmgaming.niko",
-    "version": "v1.1",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/niko.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/niko.zip"
@@ -162,9 +162,17 @@
   {
     "name": "Skitty",
     "package": "org.nqmgaming.skitty",
-    "version": "v1.1",
+    "version": "1",
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/skitty.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/skitty.zip"
+  },
+  {
+    "name": "Cattail",
+    "package": "org.leo9273.cattail",
+    "version": "1",
+    "author": "Leo9273",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/cattail.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/cattail.zip"
   }
 ]
