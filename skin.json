@@ -134,5 +134,37 @@
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/evee.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/evee.zip"
+  },
+  {
+    "name": "Mini",
+    "package": "org.nqmgaming.mini",
+    "version": "v1.1",
+    "author": "nqmgaming",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/mini.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/mini.zip"
+  },
+  {
+    "name": "Diablito",
+    "package": "org.nqmgaming.diablito",
+    "version": "v1.1",
+    "author": "nqmgaming",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/diablito.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/diablito.zip"
+  },
+  {
+    "name": "Niko",
+    "package": "org.nqmgaming.niko",
+    "version": "v1.1",
+    "author": "nqmgaming",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/niko.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/niko.zip"
+  },
+  {
+    "name": "Skitty",
+    "package": "org.nqmgaming.skitty",
+    "version": "v1.1",
+    "author": "nqmgaming",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/skitty.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/skitty.zip"
   }
 ]
