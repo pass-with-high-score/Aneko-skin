@@ -174,5 +174,29 @@
     "author": "Leo9273",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/cattail.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/cattail.zip"
+  },
+  {
+    "name": "Dalmy",
+    "package": "org.nqmgaming.dalmy",
+    "version": "1",
+    "author": "Leo9273",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/dalmy.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/dalmy.zip"
+  },
+  {
+    "name": "Droid",
+    "package": "org.nqmgaming.droid",
+    "version": "1",
+    "author": "Leo9273",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/droid.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/droid.zip"
+  },
+  {
+    "name": "S@mi",
+    "package": "org.nqmgaming.sami",
+    "version": "1",
+    "author": "Leo9273",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/sami.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/sami.zip"
   }
 ]
