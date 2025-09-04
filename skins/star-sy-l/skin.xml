@@ -1,64 +1,317 @@
 <?xml version="1.0" encoding="utf-8"?>
 <motion-params
-        package="org.nqmgaming.skitty"
-        name="Skitty"
+        package="org.nqmgaming.star.sy.l"
+        name="StarSyL"
         preview="icon.png"
         author="nqmgaming"
-        acceleration="100"
+        acceleration="160"
         awakeState="awake"
         deaccelerationDistance="60"
         initialState="stop"
-        maxVelocity="50"
+        maxVelocity="100"
         moveStatePrefix="move"
-        proximityDistance="10">
-    <motion state="stop">
+        proximityDistance="10"
+        wallStatePrefix="wall">
+    <motion
+            checkWall="true"
+            nextState="wait"
+            state="stop">
+        <item
+                drawable="mati1"
+                duration="200" />
+        <item
+                drawable="mati2"
+                duration="200" />
+        <item
+                drawable="mati1"
+                duration="200" />
+        <item
+                drawable="mati2"
+                duration="200" />
+        <item
+                drawable="mati1"
+                duration="200" />
+        <item
+                drawable="mati2"
+                duration="200" />
+        <repeat-item repeatCount="5">
+            <item
+                    drawable="cora1"
+                    duration="600" />
+            <item
+                    drawable="cora2"
+                    duration="600" />
+            <item
+                    drawable="cora3"
+                    duration="600" />
+            <item
+                    drawable="cora4"
+                    duration="600" />
+        </repeat-item>
+        <repeat-item repeatCount="0">
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati6"
+                    duration="80" />
+            <item
+                    drawable="mati5"
+                    duration="80" />
+            <item
+                    drawable="mati7"
+                    duration="80" />
+            <item
+                    drawable="mati8"
+                    duration="80" />
+            <item
+                    drawable="mati7"
+                    duration="80" />
+            <item
+                    drawable="mati8"
+                    duration="80" />
+            <item
+                    drawable="mati7"
+                    duration="80" />
+            <item
+                    drawable="mati8"
+                    duration="80" />
+            <item
+                    drawable="mati7"
+                    duration="80" />
+            <item
+                    drawable="mati8"
+                    duration="80" />
+            <item
+                    drawable="mati7"
+                    duration="80" />
+            <item
+                    drawable="mati8"
+                    duration="80" />
+            <item
+                    drawable="mati7"
+                    duration="80" />
+            <item
+                    drawable="mati8"
+                    duration="80" />
+            <item
+                    drawable="mati7"
+                    duration="80" />
+            <item
+                    drawable="mati8"
+                    duration="80" />
+            <item
+                    drawable="mati7"
+                    duration="80" />
+            <item
+                    drawable="mati8"
+                    duration="80" />
+            <item
+                    drawable="mati7"
+                    duration="120" />
+            <item
+                    drawable="mati8"
+                    duration="120" />
+            <item
+                    drawable="mati7"
+                    duration="120" />
+            <item
+                    drawable="mati8"
+                    duration="120" />
+            <item
+                    drawable="mati7"
+                    duration="120" />
+            <item
+                    drawable="mati8"
+                    duration="120" />
+            <item
+                    drawable="mati7"
+                    duration="120" />
+            <item
+                    drawable="mati8"
+                    duration="120" />
+            <item
+                    drawable="mati7"
+                    duration="120" />
+        </repeat-item>
+    </motion>
+    <motion state="wait">
+        <item
+                drawable="mati9"
+                duration="3000" />
+        <repeat-item repeatCount="6">
+            <item
+                    drawable="kaki1"
+                    duration="250" />
+            <item
+                    drawable="kaki2"
+                    duration="250" />
+            <item
+                    drawable="kaki3"
+                    duration="250" />
+            <item
+                    drawable="kaki4"
+                    duration="250" />
+            <item
+                    drawable="kaki5"
+                    duration="250" />
+        </repeat-item>
+        <item
+                drawable="mati1"
+                duration="2000" />
+        <item
+                drawable="akubi3"
+                duration="400" />
+        <item
+                drawable="akubi4"
+                duration="250" />
         <repeat-item>
-            <item
-                    drawable="down3"
-                    duration="5000" />
-            <item
-                    drawable="down2"
-                    duration="2000" />
-            <repeat-item repeatCount="6">
+            <repeat-item repeatCount="50">
                 <item
-                        drawable="arotate1"
-                        duration="1000" />
+                        drawable="sleep1"
+                        duration="2000" />
                 <item
-                        drawable="arotate2"
-                        duration="1000" />
+                        drawable="sleep2"
+                        duration="2000" />
             </repeat-item>
-            <item
-                    drawable="down3"
-                    duration="1000" />
-            <item
-                    drawable="arotate7"
-                    duration="1000" />
-            <item
-                    drawable="down3"
-                    duration="1000" />
-            <item
-                    drawable="arotate7"
-                    duration="1000" />
-            <item
-                    drawable="down3"
-                    duration="3000" />
-            <repeat-item repeatCount="6">
-                <item
-                        drawable="arotate5"
-                        duration="200" />
-                <item
-                        drawable="arotate6"
-                        duration="200" />
-                <item
-                        drawable="arotate4"
-                        duration="200" />
-                <item
-                        drawable="arotate3"
-                        duration="200" />
-            </repeat-item>
-            <item
-                    drawable="down3"
-                    duration="5000" />
         </repeat-item>
     </motion>
     <motion
@@ -66,114 +319,363 @@
             nextState="stop"
             state="awake">
         <item
-                drawable="arotate7"
-                duration="750" />
+                drawable="awake"
+                duration="200" />
         <item
-                drawable="down3"
-                duration="750" />
+                drawable="awake2"
+                duration="200" />
+        <item
+                drawable="awake"
+                duration="200" />
+        <item
+                drawable="awake2"
+                duration="200" />
     </motion>
     <motion state="moveUp">
         <repeat-item>
             <item
                     drawable="up1"
-                    duration="250" />
+                    duration="100" />
             <item
                     drawable="up2"
-                    duration="250" />
-            <item
-                    drawable="up3"
-                    duration="250" />
+                    duration="100" />
         </repeat-item>
     </motion>
     <motion state="moveDown">
         <repeat-item>
             <item
                     drawable="down1"
-                    duration="250" />
+                    duration="100" />
             <item
                     drawable="down2"
-                    duration="250" />
-            <item
-                    drawable="down3"
-                    duration="250" />
+                    duration="100" />
         </repeat-item>
     </motion>
     <motion state="moveLeft">
         <repeat-item>
             <item
                     drawable="left1"
-                    duration="250" />
+                    duration="100" />
             <item
                     drawable="left2"
-                    duration="250" />
-            <item
-                    drawable="left3"
-                    duration="250" />
+                    duration="100" />
         </repeat-item>
     </motion>
     <motion state="moveRight">
         <repeat-item>
             <item
                     drawable="right1"
-                    duration="250" />
+                    duration="100" />
             <item
                     drawable="right2"
-                    duration="250" />
-            <item
-                    drawable="right3"
-                    duration="250" />
+                    duration="100" />
         </repeat-item>
     </motion>
     <motion state="moveUpLeft">
         <repeat-item>
             <item
                     drawable="upleft1"
-                    duration="250" />
+                    duration="100" />
             <item
                     drawable="upleft2"
-                    duration="250" />
-            <item
-                    drawable="upleft3"
-                    duration="250" />
+                    duration="100" />
         </repeat-item>
     </motion>
     <motion state="moveUpRight">
         <repeat-item>
             <item
                     drawable="upright1"
-                    duration="250" />
+                    duration="100" />
             <item
                     drawable="upright2"
-                    duration="250" />
-            <item
-                    drawable="upright3"
-                    duration="250" />
+                    duration="100" />
         </repeat-item>
     </motion>
     <motion state="moveDownRight">
         <repeat-item>
             <item
                     drawable="dwright1"
-                    duration="250" />
+                    duration="110" />
             <item
                     drawable="dwright2"
-                    duration="250" />
-            <item
-                    drawable="dwright3"
-                    duration="250" />
+                    duration="110" />
         </repeat-item>
     </motion>
     <motion state="moveDownLeft">
         <repeat-item>
             <item
                     drawable="dwleft1"
-                    duration="250" />
+                    duration="110" />
             <item
                     drawable="dwleft2"
+                    duration="110" />
+        </repeat-item>
+    </motion>
+    <motion
+            nextState="wait"
+            state="wallDown">
+        <repeat-item repeatCount="3">
+            <item
+                    drawable="dtogi1"
+                    duration="110" />
+            <item
+                    drawable="dtogi2"
+                    duration="110" />
+            <item
+                    drawable="dtogi1"
+                    duration="15" />
+            <item
+                    drawable="dtogi2"
+                    duration="110" />
+            <item
+                    drawable="dtogi1"
+                    duration="110" />
+            <item
+                    drawable="dtogi2"
+                    duration="110" />
+            <item
+                    drawable="dtogi1"
+                    duration="110" />
+            <item
+                    drawable="dtogi2"
+                    duration="110" />
+            <item
+                    drawable="dtogi1"
+                    duration="110" />
+            <item
+                    drawable="dtogi2"
+                    duration="110" />
+        </repeat-item>
+    </motion>
+    <motion
+            nextState="wait"
+            state="wallUp">
+        <repeat-item repeatCount="1">
+            <item
+                    drawable="utogi0"
+                    duration="3000" />
+            <item
+                    drawable="utogi1"
                     duration="250" />
             <item
-                    drawable="dwleft3"
+                    drawable="utogi2"
                     duration="250" />
+            <item
+                    drawable="utogi3"
+                    duration="250" />
+            <item
+                    drawable="utogi4"
+                    duration="250" />
+            <item
+                    drawable="utogi5"
+                    duration="250" />
+            <item
+                    drawable="utogi6"
+                    duration="250" />
+            <item
+                    drawable="utogi7"
+                    duration="250" />
+            <item
+                    drawable="utogi8"
+                    duration="250" />
+            <item
+                    drawable="utogi9"
+                    duration="250" />
+            <item
+                    drawable="utogi10"
+                    duration="200" />
+            <item
+                    drawable="utogi9"
+                    duration="200" />
+            <item
+                    drawable="utogi10"
+                    duration="200" />
+            <item
+                    drawable="utogi9"
+                    duration="200" />
+            <item
+                    drawable="utogi10"
+                    duration="200" />
+            <item
+                    drawable="utogi9"
+                    duration="200" />
+            <item
+                    drawable="utogi10"
+                    duration="200" />
+            <item
+                    drawable="utogi9"
+                    duration="200" />
+            <item
+                    drawable="utogi10"
+                    duration="200" />
+            <item
+                    drawable="utogi9"
+                    duration="200" />
+            <item
+                    drawable="utogi10"
+                    duration="200" />
+            <item
+                    drawable="utogi9"
+                    duration="200" />
+            <item
+                    drawable="utogi10"
+                    duration="200" />
+            <item
+                    drawable="utogi9"
+                    duration="200" />
+            <item
+                    drawable="utogi10"
+                    duration="200" />
+        </repeat-item>
+    </motion>
+    <motion
+            nextState="wait"
+            state="wallLeft">
+        <repeat-item repeatCount="1">
+            <item
+                    drawable="ltogi1"
+                    duration="1000" />
+            <item
+                    drawable="ltogi1"
+                    duration="80" />
+            <item
+                    drawable="ltogi2"
+                    duration="80" />
+            <item
+                    drawable="ltogi3"
+                    duration="80" />
+            <item
+                    drawable="ltogi4"
+                    duration="80" />
+            <item
+                    drawable="ltogi5"
+                    duration="80" />
+            <item
+                    drawable="ltogi6"
+                    duration="80" />
+            <item
+                    drawable="ltogi5"
+                    duration="80" />
+            <item
+                    drawable="ltogi6"
+                    duration="80" />
+            <item
+                    drawable="ltogi5"
+                    duration="80" />
+            <item
+                    drawable="ltogi6"
+                    duration="80" />
+            <item
+                    drawable="ltogi5"
+                    duration="80" />
+            <item
+                    drawable="ltogi6"
+                    duration="80" />
+            <item
+                    drawable="ltogi5"
+                    duration="80" />
+            <item
+                    drawable="ltogi6"
+                    duration="80" />
+            <item
+                    drawable="ltogi5"
+                    duration="80" />
+            <item
+                    drawable="ltogi6"
+                    duration="80" />
+            <item
+                    drawable="ltogi5"
+                    duration="80" />
+            <item
+                    drawable="ltogi6"
+                    duration="80" />
+            <item
+                    drawable="ltogi5"
+                    duration="80" />
+            <item
+                    drawable="ltogi6"
+                    duration="80" />
+            <item
+                    drawable="ltogi5"
+                    duration="80" />
+            <item
+                    drawable="ltogi6"
+                    duration="1000" />
+        </repeat-item>
+    </motion>
+    <motion
+            nextState="wait"
+            state="wallRight">
+        <repeat-item repeatCount="1">
+            <item
+                    drawable="rtogi1"
+                    duration="2000" />
+            <item
+                    drawable="rtogi1"
+                    duration="100" />
+            <item
+                    drawable="rtogi2"
+                    duration="100" />
+            <item
+                    drawable="rtogi3"
+                    duration="100" />
+            <item
+                    drawable="rtogi4"
+                    duration="100" />
+            <item
+                    drawable="rtogi5"
+                    duration="100" />
+            <item
+                    drawable="rtogi6"
+                    duration="100" />
+            <item
+                    drawable="rtogi5"
+                    duration="100" />
+            <item
+                    drawable="rtogi6"
+                    duration="100" />
+            <item
+                    drawable="rtogi5"
+                    duration="100" />
+            <item
+                    drawable="rtogi6"
+                    duration="100" />
+            <item
+                    drawable="rtogi5"
+                    duration="100" />
+            <item
+                    drawable="rtogi6"
+                    duration="100" />
+            <item
+                    drawable="rtogi5"
+                    duration="100" />
+            <item
+                    drawable="rtogi6"
+                    duration="100" />
+            <item
+                    drawable="rtogi5"
+                    duration="100" />
+            <item
+                    drawable="rtogi6"
+                    duration="100" />
+            <item
+                    drawable="rtogi5"
+                    duration="100" />
+            <item
+                    drawable="rtogi6"
+                    duration="100" />
+            <item
+                    drawable="rtogi5"
+                    duration="100" />
+            <item
+                    drawable="rtogi6"
+                    duration="100" />
+            <item
+                    drawable="rtogi5"
+                    duration="100" />
+            <item
+                    drawable="rtogi6"
+                    duration="1000" />
         </repeat-item>
     </motion>
 </motion-params>
