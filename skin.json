@@ -198,5 +198,13 @@
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/sami.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/sami.zip"
+  },
+  {
+    "name": "Sans",
+    "package": "org.nqmgaming.sans",
+    "version": "1",
+    "author": "nqmgaming",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/sans.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/sans.zip"
   }
 ]
