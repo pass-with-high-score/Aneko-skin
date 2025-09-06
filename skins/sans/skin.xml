@@ -8,7 +8,7 @@
     initialState="stop"
     maxVelocity="50"
     moveStatePrefix="move"
-    package="com.nqmgaming.sans"
+    package="org.nqmgaming.sans"
     preview="icon.png"
     proximityDistance="10">
     <motion state="stop">
