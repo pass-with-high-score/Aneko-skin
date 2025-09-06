@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<motion-params
+    name="Sans"
+    acceleration="100"
+    author="nqmgaming"
+    awakeState="awake"
+    deaccelerationDistance="60"
+    initialState="stop"
+    maxVelocity="50"
+    moveStatePrefix="move"
+    package="com.nqmgaming.sans"
+    preview="icon.png"
+    proximityDistance="10">
+    <motion state="stop">
+        <repeat-item>
+            <item
+                drawable="down1"
+                duration="7000" />
+            <item
+                drawable="arotate5"
+                duration="750" />
+            <item
+                drawable="down1"
+                duration="1000" />
+            <repeat-item repeatCount="6">
+                <item
+                    drawable="arotate3"
+                    duration="1000" />
+                <item
+                    drawable="arotate4"
+                    duration="1000" />
+            </repeat-item>
+            <item
+                drawable="down1"
+                duration="7000" />
+            <item
+                drawable="hrotate1"
+                duration="300" />
+            <item
+                drawable="hrotate2"
+                duration="300" />
+            <item
+                drawable="hrotate3"
+                duration="300" />
+            <item
+                drawable="hrotate4"
+                duration="300" />
+            <item
+                drawable="hrotate5"
+                duration="300" />
+            <item
+                drawable="hrotate6"
+                duration="300" />
+            <item
+                drawable="arotate6"
+                duration="300" />
+            <item
+                drawable="arotate7"
+                duration="300" />
+            <item
+                drawable="arotate8"
+                duration="300" />
+        </repeat-item>
+    </motion>
+    <motion
+        checkMove="true"
+        nextState="stop"
+        state="awake">
+        <item
+            drawable="arotate2"
+            duration="150" />
+        <item
+            drawable="arotate1"
+            duration="150" />
+        <item
+            drawable="arotate2"
+            duration="150" />
+        <item
+            drawable="arotate1"
+            duration="150" />
+        <item
+            drawable="arotate2"
+            duration="400" />
+    </motion>
+    <motion state="moveUp">
+        <repeat-item>
+            <item
+                drawable="up1"
+                duration="200" />
+            <item
+                drawable="up2"
+                duration="200" />
+            <item
+                drawable="up1"
+                duration="200" />
+            <item
+                drawable="up3"
+                duration="200" />
+        </repeat-item>
+    </motion>
+    <motion state="moveDown">
+        <repeat-item>
+            <item
+                drawable="down1"
+                duration="200" />
+            <item
+                drawable="down2"
+                duration="200" />
+            <item
+                drawable="down1"
+                duration="200" />
+            <item
+                drawable="down3"
+                duration="200" />
+        </repeat-item>
+    </motion>
+    <motion state="moveLeft">
+        <repeat-item>
+            <item
+                drawable="left1"
+                duration="200" />
+            <item
+                drawable="left2"
+                duration="200" />
+            <item
+                drawable="left1"
+                duration="200" />
+            <item
+                drawable="left3"
+                duration="200" />
+        </repeat-item>
+    </motion>
+    <motion state="moveRight">
+        <repeat-item>
+            <item
+                drawable="right1"
+                duration="200" />
+            <item
+                drawable="right2"
+                duration="200" />
+            <item
+                drawable="right1"
+                duration="200" />
+            <item
+                drawable="right3"
+                duration="200" />
+        </repeat-item>
+    </motion>
+    <motion state="moveUpLeft">
+        <repeat-item>
+            <item
+                drawable="left1"
+                duration="200" />
+            <item
+                drawable="left2"
+                duration="200" />
+            <item
+                drawable="left1"
+                duration="200" />
+            <item
+                drawable="left3"
+                duration="200" />
+            <item
+                drawable="up1"
+                duration="200" />
+            <item
+                drawable="up2"
+                duration="200" />
+            <item
+                drawable="up1"
+                duration="200" />
+            <item
+                drawable="up3"
+                duration="200" />
+        </repeat-item>
+    </motion>
+    <motion state="moveUpRight">
+        <repeat-item>
+            <item
+                drawable="right1"
+                duration="200" />
+            <item
+                drawable="right2"
+                duration="200" />
+            <item
+                drawable="right1"
+                duration="200" />
+            <item
+                drawable="right3"
+                duration="200" />
+            <item
+                drawable="up1"
+                duration="200" />
+            <item
+                drawable="up2"
+                duration="200" />
+            <item
+                drawable="up1"
+                duration="200" />
+            <item
+                drawable="up3"
+                duration="200" />
+        </repeat-item>
+    </motion>
+    <motion state="moveDownRight">
+        <repeat-item>
+            <item
+                drawable="right1"
+                duration="200" />
+            <item
+                drawable="right2"
+                duration="200" />
+            <item
+                drawable="right1"
+                duration="200" />
+            <item
+                drawable="right3"
+                duration="200" />
+            <item
+                drawable="down1"
+                duration="200" />
+            <item
+                drawable="down2"
+                duration="200" />
+            <item
+                drawable="down1"
+                duration="200" />
+            <item
+                drawable="down3"
+                duration="200" />
+        </repeat-item>
+    </motion>
+    <motion state="moveDownLeft">
+        <repeat-item>
+            <item
+                drawable="left1"
+                duration="200" />
+            <item
+                drawable="left2"
+                duration="200" />
+            <item
+                drawable="left1"
+                duration="200" />
+            <item
+                drawable="left3"
+                duration="200" />
+            <item
+                drawable="down1"
+                duration="200" />
+            <item
+                drawable="down2"
+                duration="200" />
+            <item
+                drawable="down1"
+                duration="200" />
+            <item
+                drawable="down3"
+                duration="200" />
+        </repeat-item>
+    </motion>
+</motion-params>
