@@ -222,5 +222,13 @@
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/santino.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/santino.zip"
+  },
+  {
+    "name": "Multi",
+    "package": "org.nqmgaming.multi",
+    "version": "1",
+    "author": "nqmgaming",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/multi.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/multi.zip"
   }
 ]
