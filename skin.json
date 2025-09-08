@@ -206,8 +206,7 @@
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/sans.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/sans.zip"
-  }
-,
+  },
   {
     "name": "picka",
     "package": "org.moffkis_danil241109.picka",
@@ -215,5 +214,13 @@
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/picka.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/picka.zip"
+  },
+  {
+    "name": "Santino",
+    "package": "org.nqmgaming.santino",
+    "version": "1",
+    "author": "nqmgaming",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/santino.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/santino.zip"
   }
 ]
