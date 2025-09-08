@@ -230,5 +230,13 @@
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/multi.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/multi.zip"
+  },
+  {
+    "name": "Jigglypuff",
+    "package": "org.nqmgaming.jigglypuff",
+    "version": "1",
+    "author": "nqmgaming",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/jigglypuff.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/jigglypuff.zip"
   }
 ]
