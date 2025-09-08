@@ -238,5 +238,21 @@
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/jigglypuff.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/jigglypuff.zip"
+  },
+  {
+    "name": "Blue Tapy",
+    "package": "org.nqmgaming.blue-tapy",
+    "version": "1",
+    "author": "nqmgaming",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/blue-tapy.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/blue-tapy.zip"
+  },
+  {
+    "name": "Flower",
+    "package": "org.nqmgaming.flower",
+    "version": "1",
+    "author": "nqmgaming",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/flower.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/flower.zip"
   }
 ]

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <motion-params
-        package="org.nqmgaming.blue.tapy"
-        name="Blue Tapy"
+        package="org.nqmgaming.flower"
+        name="Flower"
         preview="icon.png"
         author="nqmgaming"
         acceleration="160"
@@ -61,6 +61,12 @@
         <item
                 drawable="akubi2"
                 duration="250" />
+        <item
+                drawable="mati1"
+                duration="300" />
+        <item
+                drawable="akubi2"
+                duration="300" />
         <item
                 drawable="mati1"
                 duration="300" />
