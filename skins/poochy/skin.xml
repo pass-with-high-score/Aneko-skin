@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<motion-params
+        package="org.katanya04.poochy"
+        name="Poochy"
+        preview="icon.png"
+        author="katanya04"
+        acceleration="160"
+        awakeState="awake"
+        deaccelerationDistance="60"
+        initialState="stop"
+        maxVelocity="100"
+        moveStatePrefix="move"
+        proximityDistance="10"
+        wallStatePrefix="wall">
+  <motion
+          checkWall="true"
+          nextState="wait"
+          state="stop">
+    <item
+            drawable="dwleft1"
+            duration="5000" />
+  </motion>
+
+  <motion state="wait">
+    <repeat-item>
+      <item
+              drawable="wait0"
+              duration="1500" />
+      <item
+              drawable="wait1"
+              duration="1500" />
+    </repeat-item>
+  </motion>
+
+  <motion
+          checkMove="true"
+          nextState="stop"
+          state="awake">
+    <item
+            drawable="awake"
+            duration="750" />
+  </motion>
+
+  <motion state="moveUp">
+    <repeat-item>
+      <item
+              drawable="upleft0"
+              duration="150" />
+      <item
+              drawable="upleft1"
+              duration="150" />
+      <item
+              drawable="upleft2"
+              duration="150" />
+    </repeat-item>
+  </motion>
+
+  <motion state="moveDown">
+    <repeat-item>
+      <item
+              drawable="dwleft0"
+              duration="150" />
+      <item
+              drawable="dwleft1"
+              duration="150" />
+      <item
+              drawable="dwleft2"
+              duration="150" />
+    </repeat-item>
+  </motion>
+
+  <motion state="moveLeft">
+    <repeat-item>
+      <item
+              drawable="dwleft0"
+              duration="150" />
+      <item
+              drawable="dwleft1"
+              duration="150" />
+      <item
+              drawable="dwleft2"
+              duration="150" />
+    </repeat-item>
+  </motion>
+
+  <motion state="moveRight">
+    <repeat-item>
+      <item
+              drawable="dwright0"
+              duration="150" />
+      <item
+              drawable="dwright1"
+              duration="150" />
+      <item
+              drawable="dwright2"
+              duration="150" />
+    </repeat-item>
+  </motion>
+
+  <motion state="moveUpLeft">
+    <repeat-item>
+      <item
+              drawable="upleft0"
+              duration="150" />
+      <item
+              drawable="upleft1"
+              duration="150" />
+      <item
+              drawable="upleft2"
+              duration="150" />
+    </repeat-item>
+  </motion>
+
+  <motion state="moveUpRight">
+    <repeat-item>
+      <item
+              drawable="upright0"
+              duration="150" />
+      <item
+              drawable="upright1"
+              duration="150" />
+      <item
+              drawable="upright2"
+              duration="150" />
+    </repeat-item>
+  </motion>
+
+  <motion state="moveDownRight">
+    <repeat-item>
+      <item
+              drawable="dwright0"
+              duration="150" />
+      <item
+              drawable="dwright1"
+              duration="150" />
+      <item
+              drawable="dwright2"
+              duration="150" />
+    </repeat-item>
+  </motion>
+
+  <motion state="moveDownLeft">
+    <repeat-item>
+      <item
+              drawable="dwleft0"
+              duration="150" />
+      <item
+              drawable="dwleft1"
+              duration="150" />
+      <item
+              drawable="dwleft2"
+              duration="150" />
+    </repeat-item>
+  </motion>
+
+  <!-- optional: when left side of display -->
+  <motion
+          nextState="wait"
+          state="wallLeft">
+    <repeat-item repeatCount="3">
+      <item
+              drawable="wallleft0"
+              duration="150" />
+      <item
+              drawable="wallleft1"
+              duration="150" />
+    </repeat-item>
+  </motion>
+
+  <!-- optional: when right side of display -->
+  <motion
+          nextState="wait"
+          state="wallRight">
+    <repeat-item repeatCount="3">
+      <item
+              drawable="wallright0"
+              duration="150" />
+      <item
+              drawable="wallright1"
+              duration="150" />
+    </repeat-item>
+  </motion>
+</motion-params>

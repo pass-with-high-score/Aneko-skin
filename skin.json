@@ -254,5 +254,13 @@
     "author": "nqmgaming",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/flower.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/flower.zip"
+  },
+  {
+    "name": "Poochy",
+    "package": "org.katanya04.poochy",
+    "version": "1",
+    "author": "katanya04",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/poochy.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/poochy.zip"
   }
 ]
