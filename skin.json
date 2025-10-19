@@ -262,5 +262,13 @@
     "author": "katanya04",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/poochy.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/poochy.zip"
+  },
+  {
+    "name": "Maria",
+    "package": "org.nqmgaming.maria",
+    "version": "1",
+    "author": "katanya04",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/maria.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/maria.zip"
   }
 ]
