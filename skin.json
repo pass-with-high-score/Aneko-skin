@@ -270,5 +270,13 @@
     "author": "katanya04",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/maria.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/maria.zip"
+  },
+  {
+    "name": "Fire",
+    "package": "lex.fire",
+    "version": "1",
+    "author": "katanya04",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/fire.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/fire.zip"
   }
 ]
