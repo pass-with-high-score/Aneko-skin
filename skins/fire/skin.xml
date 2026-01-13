@@ -9,7 +9,7 @@
         maxVelocity="100"
         moveStatePrefix="move"
         package="org.nqmgaming.fire"
-        preview="1.png"
+        preview="icon.png"
         proximityDistance="10"
         wallStatePrefix="wall">
     <motion

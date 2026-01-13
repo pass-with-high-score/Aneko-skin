@@ -10,7 +10,8 @@
         initialState="stop"
         maxVelocity="50"
         moveStatePrefix="move"
-        proximityDistance="10">
+        proximityDistance="10"
+        wallStatePrefix="wall">
     <motion state="stop">
         <repeat-item>
             <item

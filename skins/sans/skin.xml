@@ -10,7 +10,8 @@
     moveStatePrefix="move"
     package="org.nqmgaming.sans"
     preview="icon.png"
-    proximityDistance="10">
+    proximityDistance="10"
+    wallStatePrefix="wall">
     <motion state="stop">
         <repeat-item>
             <item
