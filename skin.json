@@ -278,5 +278,37 @@
     "author": "katanya04",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/fire.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/fire.zip"
+  },
+  {
+    "name": "Kei Robot",
+    "package": "com.keirobot",
+    "version": "1",
+    "author": "toad1145",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/kei_robot.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/kei_robot.zip"
+  },
+  {
+    "name": "Pool Time",
+    "package": "bovi.pooltime",
+    "version": "1",
+    "author": "Bovi",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/pool_time.gif",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/pool-time.zip"
+  },
+  {
+    "name": "yumi nikki 1",
+    "package": "org.cerltites.yuminikki1",
+    "version": "1",
+    "author": "cerltites",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/yumi_nikki_1.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/yumi-nikki-1.zip"
+  },
+  {
+    "name": "yumi nikki 2",
+    "package": "org.cerltites.yuminikki2",
+    "version": "1",
+    "author": "cerltites",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/yumi_nikki_2.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/yumi-nikki-2.zip"
   }
 ]

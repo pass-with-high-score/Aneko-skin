@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<motion-params package="org.cerltites.yuminikki1" name="yumi nikki 1" author="cerltites" preview="1000052290_#1.png" acceleration="160" maxVelocity="100" deaccelerationDistance="60" proximityDistance="10" initialState="stop" awakeState="awake" moveStatePrefix="move" wallStatePrefix="wall">
+    <motion state="stop" checkWall="true" nextState="wait">
+        <repeat-item repeatCount="5">
+            <item drawable="1000052290_#2" duration="500"/>
+            <item drawable="1000052290_#1" duration="500"/>
+            <item drawable="1000052290" duration="500"/>
+            <item drawable="1000052290_#1" duration="500"/>
+            <item drawable="1000052290_#2" duration="500"/>
+            <item drawable="1000052290_#1" duration="500"/>
+        </repeat-item>
+    </motion>
+    <motion state="wait">
+        <repeat-item repeatCount="4">
+            <item drawable="1000052290_#1" duration="500"/>
+        </repeat-item>
+    </motion>
+    <motion state="awake" checkMove="true" nextState="stop">
+        <item drawable="1000052292_#0" duration="400"/>
+        <item drawable="1000052292_#0" duration="400"/>
+        <item drawable="1000052292" duration="400"/>
+        <item drawable="1000052292" duration="400"/>
+    </motion>
+    <motion state="moveUp">
+        <repeat-item>
+            <item drawable="1000052290_#9" duration="120"/>
+            <item drawable="1000052290_#10" duration="120"/>
+            <item drawable="1000052290_#11" duration="120"/>
+            <item drawable="1000052290_#11" duration="120"/>
+            <item drawable="1000052290_#10" duration="120"/>
+            <item drawable="1000052290_#9" duration="120"/>
+            <item drawable="1000052290_#9" duration="120"/>
+            <item drawable="1000052290_#10" duration="120"/>
+            <item drawable="1000052290_#11" duration="120"/>
+            <item drawable="1000052290_#11" duration="120"/>
+            <item drawable="1000052290_#10" duration="120"/>
+            <item drawable="1000052290_#9" duration="120"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveDown">
+        <repeat-item>
+            <item drawable="1000052290_#2" duration="120"/>
+            <item drawable="1000052290_#1" duration="120"/>
+            <item drawable="1000052290" duration="120"/>
+            <item drawable="1000052290" duration="120"/>
+            <item drawable="1000052290_#1" duration="120"/>
+            <item drawable="1000052290_#2" duration="120"/>
+            <item drawable="1000052290_#2" duration="120"/>
+            <item drawable="1000052290_#1" duration="120"/>
+            <item drawable="1000052290" duration="120"/>
+            <item drawable="1000052290" duration="120"/>
+            <item drawable="1000052290_#1" duration="120"/>
+            <item drawable="1000052290_#2" duration="120"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveLeft">
+        <repeat-item>
+            <item drawable="1000052290_#5" duration="120"/>
+            <item drawable="1000052290_#4" duration="120"/>
+            <item drawable="1000052290_#0" duration="120"/>
+            <item drawable="1000052290_#0" duration="120"/>
+            <item drawable="1000052290_#4" duration="120"/>
+            <item drawable="1000052290_#5" duration="120"/>
+            <item drawable="1000052290_#5" duration="120"/>
+            <item drawable="1000052290_#4" duration="120"/>
+            <item drawable="1000052290_#5" duration="120"/>
+            <item drawable="1000052290_#5" duration="120"/>
+            <item drawable="1000052290_#4" duration="120"/>
+            <item drawable="1000052290_#0" duration="120"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveRight">
+        <repeat-item>
+            <item drawable="1000052290_#6" duration="120"/>
+            <item drawable="1000052290_#7" duration="120"/>
+            <item drawable="1000052290_#8" duration="120"/>
+            <item drawable="1000052290_#8" duration="120"/>
+            <item drawable="1000052290_#7" duration="120"/>
+            <item drawable="1000052290_#6" duration="120"/>
+            <item drawable="1000052290_#6" duration="120"/>
+            <item drawable="1000052290_#7" duration="120"/>
+            <item drawable="1000052290_#8" duration="120"/>
+            <item drawable="1000052290_#8" duration="120"/>
+            <item drawable="1000052290_#7" duration="120"/>
+            <item drawable="1000052290_#6" duration="120"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveUpLeft">
+        <repeat-item>
+            <item drawable="1000052290_#0" duration="120"/>
+            <item drawable="1000052290_#4" duration="120"/>
+            <item drawable="1000052290_#0" duration="120"/>
+            <item drawable="1000052290_#4" duration="120"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveUpRight">
+        <repeat-item>
+            <item drawable="1000052290_#8" duration="120"/>
+            <item drawable="1000052290_#7" duration="120"/>
+            <item drawable="1000052290_#8" duration="120"/>
+            <item drawable="1000052290_#7" duration="120"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveDownRight">
+        <repeat-item>
+            <item drawable="1000052290_#8" duration="120"/>
+            <item drawable="1000052290_#7" duration="120"/>
+            <item drawable="1000052290_#8" duration="120"/>
+            <item drawable="1000052290_#7" duration="120"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveDownLeft">
+        <repeat-item>
+            <item drawable="1000052290_#5" duration="120"/>
+            <item drawable="1000052290_#4" duration="120"/>
+            <item drawable="1000052290_#5" duration="120"/>
+            <item drawable="1000052290_#4" duration="120"/>
+        </repeat-item>
+    </motion>
+    <motion state="wallLeft" nextState="wait">
+        <repeat-item repeatCount="2">
+            <item drawable="1000052290_#5" duration="200"/>
+            <item drawable="1000052290_#7" duration="200"/>
+        </repeat-item>
+    </motion>
+    <motion state="wallRight" nextState="wait">
+        <repeat-item repeatCount="2">
+            <item drawable="1000052290_#8" duration="200"/>
+            <item drawable="1000052290_#4" duration="200"/>
+        </repeat-item>
+    </motion>
+</motion-params>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<motion-params package="com.keirobot" name="Kei Robot" author="toad1145" preview="1000379808.png" acceleration="160" maxVelocity="100" deaccelerationDistance="60" proximityDistance="10" initialState="stop" awakeState="awake" moveStatePrefix="move" wallStatePrefix="wall">
+    <motion state="stop" checkWall="true" nextState="wait">
+        <item drawable="1000379805" duration="250"/>
+    </motion>
+    <motion state="wait">
+        <item drawable="1000379805" duration="250"/>
+    </motion>
+    <motion state="awake" checkMove="true">
+        <item drawable="1000379807" duration="350"/>
+    </motion>
+    <motion state="moveUp">
+        <item drawable="1000379808" duration="250"/>
+    </motion>
+    <motion state="moveDown">
+        <item drawable="1000379806" duration="250"/>
+    </motion>
+    <motion state="moveLeft">
+        <item drawable="1000379806" duration="250"/>
+    </motion>
+    <motion state="moveRight">
+        <item drawable="1000379808" duration="250"/>
+    </motion>
+    <motion state="moveUpLeft">
+        <item drawable="1000379806" duration="250"/>
+    </motion>
+    <motion state="moveUpRight">
+        <item drawable="1000379808" duration="250"/>
+    </motion>
+    <motion state="moveDownLeft">
+        <item drawable="1000379806" duration="250"/>
+    </motion>
+    <motion state="moveDownRight">
+        <item drawable="1000379808" duration="250"/>
+    </motion>
+</motion-params>

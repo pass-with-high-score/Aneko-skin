@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<motion-params package="bovi.pooltime" name="Pool time" author="Bovi" preview="ezgif.com-crop (1).gif" acceleration="160" maxVelocity="100" deaccelerationDistance="60" proximityDistance="10" initialState="stop" awakeState="awake" moveStatePrefix="move" wallStatePrefix="wall">
+    <motion state="stop" checkWall="true" nextState="wait"/>
+    <motion state="wait"/>
+    <motion state="awake" checkMove="true">
+        <item drawable="ezgif.com-crop (1).gif_001" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_001" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_005" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_006" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_003" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_008" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_002" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_004" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_011" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_009" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_007" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_013" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_012" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_015" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_010" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_017" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_018" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_016" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_014" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_021" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_020" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_019" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_025" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_023" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_026" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_024" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_027" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_028" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_030" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_022" duration="250"/>
+        <item drawable="ezgif.com-crop (1).gif_029" duration="250"/>
+    </motion>
+    <motion state="moveUp"/>
+    <motion state="moveDown"/>
+    <motion state="moveLeft"/>
+    <motion state="moveRight"/>
+    <motion state="moveUpLeft"/>
+    <motion state="moveUpRight"/>
+    <motion state="moveDownLeft"/>
+    <motion state="moveDownRight"/>
+</motion-params>
