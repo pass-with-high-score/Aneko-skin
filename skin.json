@@ -310,5 +310,13 @@
     "author": "cerltites",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/yumi_nikki_2.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/yumi-nikki-2.zip"
+  },
+  {
+    "name": "Byte-Green",
+    "package": "org.xohyjyjcyjcykg.bytegreen",
+    "version": "1",
+    "author": "Anormalaccount",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/byte_green.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/byte-green.zip"
   }
 ]
