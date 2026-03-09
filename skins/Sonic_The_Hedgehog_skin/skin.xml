@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<motion-params package="com.anon.sonic" name="Sonic The Hedgehog" author="Anonymous" preview="1000269482.png" acceleration="160" maxVelocity="100" deaccelerationDistance="60" proximityDistance="10" initialState="stop" awakeState="awake" moveStatePrefix="move" wallStatePrefix="wall">
+    <motion state="stop" checkWall="true" nextState="wait">
+        <item drawable="1000269460" duration="250"/>
+        <item drawable="1000269458" duration="250"/>
+    </motion>
+    <motion state="wait">
+        <item drawable="1000269393" duration="250"/>
+        <item drawable="1000269395" duration="250"/>
+    </motion>
+    <motion state="awake" checkMove="true">
+        <item drawable="1000269403" duration="0"/>
+        <item drawable="1000269413" duration="250"/>
+        <item drawable="1000269428" duration="250"/>
+        <item drawable="1000269438" duration="250"/>
+        <item drawable="1000269454" duration="250"/>
+        <item drawable="1000269476" duration="250"/>
+        <item drawable="1000269473" duration="250"/>
+        <item drawable="1000269465" duration="250"/>
+        <item drawable="1000269397" duration="250"/>
+    </motion>
+    <motion state="moveUp">
+        <item drawable="1000269446" duration="250"/>
+        <item drawable="1000269454" duration="250"/>
+        <item drawable="1000269452" duration="250"/>
+        <item drawable="1000269450" duration="250"/>
+        <item drawable="1000269448" duration="250"/>
+        <item drawable="1000269456" duration="250"/>
+    </motion>
+    <motion state="moveDown">
+        <item drawable="1000269403" duration="250"/>
+        <item drawable="1000269401" duration="250"/>
+        <item drawable="1000269405" duration="250"/>
+        <item drawable="1000269397" duration="250"/>
+        <item drawable="1000269407" duration="250"/>
+        <item drawable="1000269399" duration="250"/>
+    </motion>
+    <motion state="moveLeft">
+        <item drawable="1000269473" duration="250"/>
+        <item drawable="1000269471" duration="250"/>
+        <item drawable="1000269474" duration="250"/>
+        <item drawable="1000269470" duration="250"/>
+        <item drawable="1000269468" duration="250"/>
+        <item drawable="1000269469" duration="250"/>
+    </motion>
+    <motion state="moveRight">
+        <item drawable="1000269422" duration="250"/>
+        <item drawable="1000269426" duration="250"/>
+        <item drawable="1000269424" duration="250"/>
+        <item drawable="1000269428" duration="250"/>
+        <item drawable="1000269430" duration="250"/>
+        <item drawable="1000269432" duration="250"/>
+    </motion>
+    <motion state="moveUpLeft">
+        <item drawable="1000269480" duration="250"/>
+        <item drawable="1000269477" duration="250"/>
+        <item drawable="1000269481" duration="250"/>
+        <item drawable="1000269476" duration="250"/>
+        <item drawable="1000269479" duration="250"/>
+        <item drawable="1000269475" duration="250"/>
+        <item drawable="1000269478" duration="250"/>
+        <item drawable="1000269477" duration="250"/>
+        <item drawable="1000269478" duration="250"/>
+        <item drawable="1000269474" duration="250"/>
+    </motion>
+    <motion state="moveUpRight">
+        <item drawable="1000269434" duration="250"/>
+        <item drawable="1000269432" duration="250"/>
+        <item drawable="1000269430" duration="250"/>
+        <item drawable="1000269442" duration="250"/>
+        <item drawable="1000269440" duration="250"/>
+        <item drawable="1000269442" duration="250"/>
+    </motion>
+    <motion state="moveDownLeft">
+        <item drawable="1000269466" duration="250"/>
+        <item drawable="1000269469" duration="250"/>
+        <item drawable="1000269465" duration="250"/>
+        <item drawable="1000269464" duration="250"/>
+        <item drawable="1000269465" duration="250"/>
+        <item drawable="1000269472" duration="250"/>
+    </motion>
+    <motion state="moveDownRight">
+        <item drawable="1000269409" duration="250"/>
+        <item drawable="1000269426" duration="250"/>
+        <item drawable="1000269413" duration="250"/>
+        <item drawable="1000269426" duration="250"/>
+        <item drawable="1000269415" duration="250"/>
+        <item drawable="1000269411" duration="250"/>
+    </motion>
+</motion-params>
