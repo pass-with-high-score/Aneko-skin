@@ -318,5 +318,21 @@
     "author": "Anormalaccount",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/byte_green.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/byte-green.zip"
+  },
+  {
+    "name": "Sonic The Hedgehog",
+    "package": "com.anon.sonic",
+    "version": "1",
+    "author": "Anonymous",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/sonic.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/sonic-the-hedgehog.zip"
+  },
+  {
+    "name": "Toothless",
+    "package": "com.Hexonoid.Toothless",
+    "version": "1",
+    "author": "Hexonoid",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/toothless.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/toothless.zip"
   }
 ]
