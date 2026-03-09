@@ -334,5 +334,21 @@
     "author": "Hexonoid",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/toothless.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/toothless.zip"
+  },
+  {
+    "name": "Espeon",
+    "package": "de.jan.espeon",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/speon.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/speon.zip"
+  },
+  {
+    "name": "Gastly",
+    "package": "de.jan.gastly",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/gastly.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/gastly.zip"
   }
 ]
