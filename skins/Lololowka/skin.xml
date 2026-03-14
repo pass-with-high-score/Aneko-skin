@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<motion-params package="com.Not_Mine.Lololowka" name="Lololowka" author="From_Shimeji_Mostly" preview="tile001.png"
+               acceleration="160" maxVelocity="100" deaccelerationDistance="60" proximityDistance="10"
+               initialState="stop" awakeState="awake" moveStatePrefix="move" wallStatePrefix="wall">
+    <motion state="stop" checkWall="true" nextState="wait">
+        <item drawable="IMG_20230910_115025_346" duration="100"/>
+    </motion>
+    <motion state="wait">
+        <item drawable="IMG_20230910_115025_346" duration="250"/>
+        <item drawable="IMG_20230910_115346_513" duration="250"/>
+        <item drawable="IMG_20230910_115423_346" duration="200"/>
+        <item drawable="IMG_20230910_115516_362" duration="200"/>
+        <item drawable="IMG_20230910_115413_259" duration="200"/>
+        <item drawable="IMG_20230910_115951_250" duration="2500"/>
+        <item drawable="IMG_20230910_115957_391" duration="2500"/>
+        <item drawable="IMG_20230910_115417_958" duration="2500"/>
+        <item drawable="IMG_20230910_115951_250" duration="2500"/>
+        <item drawable="IMG_20230910_120240_330" duration="250"/>
+        <item drawable="IMG_20230910_120200_197" duration="250"/>
+        <item drawable="IMG_20230910_120200_197" duration="250"/>
+        <item drawable="IMG_20230910_120154_894" duration="299999"/>
+        <repeat-item repeatCount="15">
+            <item drawable="IMG_20230910_120205_058" duration="250"/>
+            <item drawable="IMG_20230910_120208_991" duration="250"/>
+            <item drawable="IMG_20230910_120205_058" duration="250"/>
+            <item drawable="IMG_20230910_120212_847" duration="250"/>
+        </repeat-item>
+    </motion>
+    <motion state="awake" checkMove="true">
+        <item drawable="IMG_20230910_120200_197" duration="250"/>
+        <item drawable="IMG_20230910_115025_346" duration="250"/>
+    </motion>
+    <motion state="moveUp">
+        <item drawable="Без названия210_20260310230227" duration="250"/>
+        <item drawable="Без названия210_20260310222709" duration="250"/>
+        <item drawable="Без названия210_20260310230227" duration="250"/>
+        <item drawable="Без названия210_20260310222754" duration="250"/>
+    </motion>
+    <motion state="moveDown">
+        <item drawable="IMG_20230910_115025_346" duration="250"/>
+        <item drawable="Без названия210_20260310215342" duration="250"/>
+        <item drawable="IMG_20230910_115025_346" duration="250"/>
+        <item drawable="Без названия210_20260310215430" duration="250"/>
+    </motion>
+    <motion state="moveLeft">
+        <item drawable="IMG_20230910_115025_346" duration="250"/>
+        <item drawable="IMG_20230910_115131_400" duration="250"/>
+        <item drawable="IMG_20230910_115025_346" duration="250"/>
+        <item drawable="IMG_20230910_115154_312" duration="250"/>
+    </motion>
+    <motion state="moveRight">
+        <item drawable="Без названия210_20260310220420" duration="250"/>
+        <item drawable="Без названия210_20260310220347" duration="250"/>
+        <item drawable="Без названия210_20260310220420" duration="250"/>
+        <item drawable="Без названия210_20260310220325" duration="250"/>
+    </motion>
+    <motion state="moveUpLeft">
+        <item drawable="Без названия210_20260310223854" duration="250"/>
+        <item drawable="Без названия210_20260310223742" duration="250"/>
+        <item drawable="Без названия210_20260310223854" duration="250"/>
+        <item drawable="Без названия210_20260310224111" duration="250"/>
+    </motion>
+    <motion state="moveUpRight">
+        <item drawable="Без названия210_20260310223903" duration="250"/>
+        <item drawable="Без названия210_20260310224106" duration="250"/>
+        <item drawable="Без названия210_20260310223903" duration="250"/>
+        <item drawable="Без названия210_20260310223736" duration="250"/>
+    </motion>
+    <motion state="moveDownLeft">
+        <item drawable="Без названия210_20260310223931" duration="250"/>
+        <item drawable="Без названия210_20260310222619" duration="250"/>
+        <item drawable="Без названия210_20260310223931" duration="250"/>
+        <item drawable="Без названия210_20260310222251" duration="250"/>
+    </motion>
+    <motion state="moveDownRight">
+        <item drawable="Без названия210_20260310221709" duration="250"/>
+        <item drawable="Без названия210_20260310222246" duration="250"/>
+        <item drawable="Без названия210_20260310221709" duration="250"/>
+        <item drawable="Без названия210_20260310222608" duration="250"/>
+    </motion>
+</motion-params>

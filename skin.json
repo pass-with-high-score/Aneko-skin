@@ -350,5 +350,29 @@
     "author": "j4nDr01d",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/gastly.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/gastly.zip"
+  },
+  {
+    "name": "Boris",
+    "package": "com.avila.boriskin",
+    "version": "1",
+    "author": "Sergio Avila",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/boriskin.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/boriskin.zip"
+  },
+  {
+    "name": "Lololowka",
+    "package": "com.Not_Mine.Lololowka",
+    "version": "1",
+    "author": "From_Shimeji_Mostly",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/lololowka.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/lololowka.zip"
+  },
+  {
+    "name": "StingRay",
+    "package": "com.Kaiju_Fish.StingRay",
+    "version": "1",
+    "author": "Kaiju_Fish",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/stingRay.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/stingRay.zip"
   }
 ]

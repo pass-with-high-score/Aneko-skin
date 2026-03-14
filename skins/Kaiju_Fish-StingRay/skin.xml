@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<motion-params package="com.Kaiju_Fish.StingRay" name="StingRay" author="Kaiju_Fish" preview="tile001.png"
+               acceleration="160" maxVelocity="100" deaccelerationDistance="60" proximityDistance="10"
+               initialState="stop" awakeState="awake" moveStatePrefix="move" wallStatePrefix="wall">
+    <motion state="stop" checkWall="true" nextState="wait">
+        <item drawable="tile000" duration="250"/>
+    </motion>
+    <motion state="wait">
+        <item drawable="tile000" duration="250"/>
+        <item drawable="tile001" duration="250"/>
+        <item drawable="tile002" duration="250"/>
+        <item drawable="tile003" duration="250"/>
+    </motion>
+    <motion state="awake" checkMove="true">
+        <item drawable="tile000" duration="250"/>
+        <item drawable="tile001" duration="250"/>
+        <item drawable="tile002" duration="250"/>
+        <item drawable="tile003" duration="250"/>
+    </motion>
+    <motion state="moveUp">
+        <item drawable="tile012" duration="250"/>
+        <item drawable="tile013" duration="250"/>
+        <item drawable="tile014" duration="250"/>
+        <item drawable="tile015" duration="250"/>
+    </motion>
+    <motion state="moveDown">
+        <item drawable="tile016" duration="250"/>
+        <item drawable="tile017" duration="250"/>
+        <item drawable="tile018" duration="250"/>
+        <item drawable="tile019" duration="250"/>
+    </motion>
+    <motion state="moveLeft">
+        <item drawable="tile004" duration="250"/>
+        <item drawable="tile005" duration="250"/>
+        <item drawable="tile006" duration="250"/>
+        <item drawable="tile007" duration="250"/>
+    </motion>
+    <motion state="moveRight">
+        <item drawable="tile008" duration="250"/>
+        <item drawable="tile009" duration="250"/>
+        <item drawable="tile010" duration="250"/>
+        <item drawable="tile011" duration="250"/>
+    </motion>
+    <motion state="moveUpLeft">
+        <item drawable="tile020" duration="250"/>
+        <item drawable="tile021" duration="250"/>
+        <item drawable="tile022" duration="250"/>
+        <item drawable="tile023" duration="250"/>
+    </motion>
+    <motion state="moveUpRight">
+        <item drawable="tile032" duration="250"/>
+        <item drawable="tile033" duration="250"/>
+        <item drawable="tile034" duration="250"/>
+        <item drawable="tile035" duration="250"/>
+    </motion>
+    <motion state="moveDownLeft">
+        <item drawable="tile024" duration="250"/>
+        <item drawable="tile025" duration="250"/>
+        <item drawable="tile026" duration="250"/>
+        <item drawable="tile027" duration="250"/>
+    </motion>
+    <motion state="moveDownRight">
+        <item drawable="tile028" duration="250"/>
+        <item drawable="tile029" duration="250"/>
+        <item drawable="tile030" duration="250"/>
+        <item drawable="tile031" duration="250"/>
+    </motion>
+</motion-params>
