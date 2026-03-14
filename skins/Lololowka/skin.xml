@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<motion-params package="com.Not_Mine.Lololowka" name="Lololowka" author="From_Shimeji_Mostly" preview="tile001.png"
+<motion-params package="com.Not_Mine.Lololowka" name="Lololowka" author="From_Shimeji_Mostly" preview="icon.png"
                acceleration="160" maxVelocity="100" deaccelerationDistance="60" proximityDistance="10"
                initialState="stop" awakeState="awake" moveStatePrefix="move" wallStatePrefix="wall">
     <motion state="stop" checkWall="true" nextState="wait">
