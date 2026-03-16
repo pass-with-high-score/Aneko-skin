@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<motion-params package="com.panesar.xDeck" name="xDeck" author="Bob panesar" preview="265b458e-3dd8-40f0-a850-469b18609b54-121.png" acceleration="160" maxVelocity="100" deaccelerationDistance="60" proximityDistance="10" initialState="stop" awakeState="awake" moveStatePrefix="move" wallStatePrefix="wall">
+    <motion state="stop" checkWall="true" nextState="wait">
+        <repeat-item repeatCount="50">
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-1" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-11" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-13" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-12" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-19" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-23" duration="250"/>
+        </repeat-item>
+    </motion>
+    <motion state="wait">
+        <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-11" duration="250"/>
+        <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-10" duration="250"/>
+        <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-13" duration="250"/>
+        <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-2" duration="250"/>
+        <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-12" duration="250"/>
+        <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-1" duration="250"/>
+        <repeat-item repeatCount="0">
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-20" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-44" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-40" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-4" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-48" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-5" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-43" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-42" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-46" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-45" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-53" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-49" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-51" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-50" duration="250"/>
+        </repeat-item>
+    </motion>
+    <motion state="awake" checkMove="true">
+        <repeat-item repeatCount="0">
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-11" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-10" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-13" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-13" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-2" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-12" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-1" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-41" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-24" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-15" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-20" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-30" duration="250"/>
+            <item drawable="4c4eaa52-cf16-46f1-9ba1-3355262cffa4-40" duration="250"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveUp">
+        <repeat-item repeatCount="802">
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-1" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-11" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-10" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-13" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-16" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-12" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-17" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-0" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-19" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-2" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-26" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-29" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-25" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-44" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-48" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-45" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-51" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-57" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-55" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-56" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-56" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-58" duration="250"/>
+            <item drawable="d08275a1-50ad-4ca7-9660-9b607b01e53c-52" duration="250"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveDown">
+        <repeat-item repeatCount="802">
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-1" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-10" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-12" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-11" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-14" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-0" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-15" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-16" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-17" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-21" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-36" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-51" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-47" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-53" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-45" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-5" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-52" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-46" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-49" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-56" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-55" duration="250"/>
+            <item drawable="12ac28a2-9eda-40ef-a188-cbcf582d6a50-54" duration="250"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveLeft">
+        <repeat-item repeatCount="102">
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-10" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-1" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-0" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-14" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-15" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-11" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-18" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-12" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-13" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-43" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-48" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-39" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-50" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-47" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-44" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-42" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-46" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-5" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-49" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-56" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-52" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-54" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-53" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-45" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-51" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-57" duration="250"/>
+            <item drawable="b4e15d57-d522-4f3f-a656-2d4080346ad5-55" duration="250"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveRight">
+        <repeat-item repeatCount="102">
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-1" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-0" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-10" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-100" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-104" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-102" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-101" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-110" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-108" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-107" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-11" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-105" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-112" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-116" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-128" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-124" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-129" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-146" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-149" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-151" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-157" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-155" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-156" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-158" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-160" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-161" duration="250"/>
+            <item drawable="265b458e-3dd8-40f0-a850-469b18609b54-162" duration="250"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveUpLeft">
+        <repeat-item repeatCount="502">
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-11" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-13" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-10" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-0" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-1" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-16" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-14" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-20" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-19" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-3" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-38" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-41" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-43" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-45" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-47" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-48" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-51" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-52" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-53" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-49" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-50" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-44" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-54" duration="250"/>
+            <item drawable="48d2fe4a-c37f-4651-8ac3-b11206351f22-5" duration="250"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveUpRight">
+        <repeat-item repeatCount="502">
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-0" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-102" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-1" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-103" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-104" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-100" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-10" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-11" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-107" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-113" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-132" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-137" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-134" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-132" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-142" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-141" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-140" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-143" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-143" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-14" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-138" duration="250"/>
+            <item drawable="557f3df8-59d8-4940-b23f-0590bd631e2d-136" duration="250"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveDownLeft">
+        <repeat-item repeatCount="501">
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-1" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-13" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-14" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-11" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-10" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-15" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-2" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-16" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-18" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-12" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-52" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-45" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-48" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-51" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-49" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-54" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-55" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-49" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-54" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-55" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-59" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-58" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-56" duration="250"/>
+            <item drawable="2ddf927b-f8a6-428d-a583-16fd8c2e3259-57" duration="250"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveDownRight">
+        <repeat-item repeatCount="501">
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-100" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-101" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-10" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-0" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-102" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-1" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-106" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-103" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-108" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-11" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-105" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-136" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-139" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-135" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-140" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-138" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-145" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-14" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-144" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-141" duration="250"/>
+            <item drawable="d5ac13bc-b5cf-4fab-8975-13a7bfe34ea3-143" duration="250"/>
+        </repeat-item>
+    </motion>
+</motion-params>
