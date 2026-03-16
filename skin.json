@@ -374,5 +374,13 @@
     "author": "Kaiju_Fish",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/stingRay.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/stingRay.zip"
+  },
+  {
+    "name": "Psyduck",
+    "package": "com.psyduck.myskin",
+    "version": "1",
+    "author": "AA77",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/psyduck.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/psyduck.zip"
   }
 ]
