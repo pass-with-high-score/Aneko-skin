@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<motion-params package="com.psyduck.myskin" name="Psyduck" author="AA77" preview="pose000.png" acceleration="150" maxVelocity="80" deaccelerationDistance="50" proximityDistance="10" initialState="stop" awakeState="awake" moveStatePrefix="move" wallStatePrefix="wall">
+    <motion state="stop" checkWall="true" nextState="wait"/>
+    <motion state="wait">
+        <item drawable="wake000" duration="2000"/>
+        <item drawable="wake001" duration="250"/>
+        <item drawable="wake002" duration="250"/>
+        <item drawable="wake003" duration="250"/>
+        <item drawable="wake004" duration="1500"/>
+        <item drawable="cwalk000" duration="250"/>
+        <item drawable="cwalk001" duration="250"/>
+        <item drawable="cwalk002" duration="250"/>
+        <item drawable="cwalk003" duration="250"/>
+        <item drawable="cwalk004" duration="250"/>
+        <item drawable="cwalk005" duration="250"/>
+        <item drawable="cwalk006" duration="250"/>
+        <item drawable="cwalk007" duration="250"/>
+        <item drawable="cwalk008" duration="250"/>
+        <item drawable="cwalk009" duration="250"/>
+        <item drawable="cwalk010" duration="250"/>
+        <item drawable="cwalk011" duration="250"/>
+        <item drawable="idle024" duration="150"/>
+        <item drawable="idle025" duration="150"/>
+        <item drawable="idle026" duration="150"/>
+        <item drawable="idle027" duration="150"/>
+        <item drawable="idle028" duration="250"/>
+        <item drawable="pose000" duration="1500"/>
+        <item drawable="pose001" duration="250"/>
+        <item drawable="pose002" duration="250"/>
+        <item drawable="pose001" duration="250"/>
+        <item drawable="pose002" duration="250"/>
+        <item drawable="pose001" duration="250"/>
+        <item drawable="pose002" duration="250"/>
+        <item drawable="pose001" duration="250"/>
+        <item drawable="pose000" duration="2000"/>
+        <item drawable="yawn007" duration="250"/>
+        <item drawable="yawn008" duration="250"/>
+        <item drawable="yawn000" duration="1000"/>
+        <item drawable="yawn001" duration="250"/>
+        <item drawable="yawn002" duration="250"/>
+        <item drawable="yawn003" duration="250"/>
+        <item drawable="yawn004" duration="250"/>
+        <item drawable="pose000" duration="2000"/>
+        <item drawable="idle031" duration="300"/>
+        <item drawable="idle030" duration="300"/>
+        <item drawable="idle029" duration="300"/>
+        <item drawable="idle028" duration="300"/>
+        <item drawable="idle027" duration="300"/>
+        <item drawable="idle027" duration="100"/>
+        <item drawable="idle028" duration="250"/>
+        <item drawable="pose000" duration="1000"/>
+        <item drawable="wake004" duration="250"/>
+        <item drawable="wake003" duration="250"/>
+        <item drawable="wake002" duration="250"/>
+        <item drawable="wake001" duration="250"/>
+        <repeat-item repeatCount="99">
+            <item drawable="wake000" duration="1000"/>
+        </repeat-item>
+    </motion>
+    <motion state="awake" checkMove="true"/>
+    <motion state="moveUp">
+        <repeat-item repeatCount="99">
+            <item drawable="walk016" duration="200"/>
+            <item drawable="walk017" duration="200"/>
+            <item drawable="walk018" duration="200"/>
+            <item drawable="walk019" duration="200"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveDown">
+        <repeat-item repeatCount="99">
+            <item drawable="walk000" duration="200"/>
+            <item drawable="walk001" duration="200"/>
+            <item drawable="walk002" duration="200"/>
+            <item drawable="walk003" duration="200"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveLeft">
+        <repeat-item repeatCount="99">
+            <item drawable="cwalk006" duration="200"/>
+            <item drawable="cwalk007" duration="200"/>
+            <item drawable="cwalk008" duration="200"/>
+            <item drawable="cwalk009" duration="200"/>
+            <item drawable="cwalk010" duration="200"/>
+            <item drawable="cwalk011" duration="200"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveRight">
+        <repeat-item repeatCount="99">
+            <item drawable="cwalk000" duration="200"/>
+            <item drawable="cwalk001" duration="200"/>
+            <item drawable="cwalk002" duration="200"/>
+            <item drawable="cwalk003" duration="200"/>
+            <item drawable="cwalk004" duration="200"/>
+            <item drawable="cwalk005" duration="200"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveUpLeft">
+        <repeat-item repeatCount="99">
+            <item drawable="walk020" duration="200"/>
+            <item drawable="walk021" duration="200"/>
+            <item drawable="walk022" duration="200"/>
+            <item drawable="walk023" duration="200"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveUpRight">
+        <repeat-item repeatCount="99">
+            <item drawable="walk012" duration="200"/>
+            <item drawable="walk013" duration="200"/>
+            <item drawable="walk014" duration="200"/>
+            <item drawable="walk015" duration="200"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveDownLeft">
+        <repeat-item repeatCount="99">
+            <item drawable="walk028" duration="200"/>
+            <item drawable="walk029" duration="200"/>
+            <item drawable="walk030" duration="200"/>
+            <item drawable="walk031" duration="200"/>
+        </repeat-item>
+    </motion>
+    <motion state="moveDownRight">
+        <repeat-item repeatCount="99">
+            <item drawable="walk004" duration="200"/>
+            <item drawable="walk005" duration="200"/>
+            <item drawable="walk006" duration="200"/>
+            <item drawable="walk007" duration="200"/>
+        </repeat-item>
+    </motion>
+    <motion state="wallLeft">
+        <repeat-item repeatCount="200">
+            <item drawable="nod000" duration="500"/>
+            <item drawable="nod001" duration="400"/>
+        </repeat-item>
+    </motion>
+    <motion state="wallUp">
+        <item drawable="sit000" duration="300"/>
+        <item drawable="sit001" duration="300"/>
+        <repeat-item repeatCount="200">
+            <item drawable="sit002" duration="250"/>
+        </repeat-item>
+    </motion>
+    <motion state="wallDown">
+        <repeat-item repeatCount="200">
+            <item drawable="yawn001" duration="250"/>
+            <item drawable="yawn000" duration="250"/>
+        </repeat-item>
+    </motion>
+    <motion state="wallRight">
+        <repeat-item repeatCount="200">
+            <item drawable="nod002" duration="500"/>
+            <item drawable="nod003" duration="400"/>
+        </repeat-item>
+    </motion>
+</motion-params>
