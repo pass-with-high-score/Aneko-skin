@@ -382,5 +382,13 @@
     "author": "AA77",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/psyduck.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/psyduck.zip"
+  },
+  {
+    "name": "xDeck",
+    "package": "com.panesar.xDeck",
+    "version": "1",
+    "author": "Bob panesar",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/xDeck.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/xDeck.zip"
   }
 ]
