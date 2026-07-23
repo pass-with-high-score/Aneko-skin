@@ -11,7 +11,7 @@
     "name": "Alien",
     "package": "org.nqmgaming.alien",
     "version": "1",
-    "author": "nqmgaming",
+    "author": "tajas20006",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/alien.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/alien.zip"
   },
@@ -27,8 +27,8 @@
     "name": "Black",
     "package": "org.nqmgaming.black",
     "version": "1",
-    "author": "nqmgaming",
-    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/black2.png",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/black.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/black.zip"
   },
   {
@@ -75,7 +75,7 @@
     "name": "DeeDee",
     "package": "org.nqmgaming.deedee",
     "version": "1",
-    "author": "nqmgaming",
+    "author": "tajas20006",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/deedee.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/deedee.zip"
   },
@@ -139,7 +139,7 @@
     "name": "Mini",
     "package": "org.nqmgaming.mini",
     "version": "1",
-    "author": "nqmgaming",
+    "author": "tajas20006",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/mini.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/mini.zip"
   },
@@ -227,7 +227,7 @@
     "name": "Multi",
     "package": "org.nqmgaming.multi",
     "version": "1",
-    "author": "nqmgaming",
+    "author": "tajas20006",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/multi.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/multi.zip"
   },
@@ -275,7 +275,7 @@
     "name": "Fire",
     "package": "lex.fire",
     "version": "1",
-    "author": "katanya04",
+    "author": "tajas20006",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/fire.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/fire.zip"
   },
@@ -390,5 +390,573 @@
     "author": "Bob panesar",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/xDeck.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/xDeck.zip"
+  },
+  {
+    "name": "Ace",
+    "package": "com.tajas20006.ace",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/ace.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/ace.zip"
+  },
+  {
+    "name": "Air",
+    "package": "com.tajas20006.air",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/air.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/air.zip"
+  },
+  {
+    "name": "Black2",
+    "package": "com.tajas20006.black2",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/black2.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/black2.zip"
+  },
+  {
+    "name": "Blue",
+    "package": "com.tajas20006.blue",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/blue.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/blue.zip"
+  },
+  {
+    "name": "Blue Marine",
+    "package": "com.tajas20006.bluemarine",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/blue-marine.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/blue-marine.zip"
+  },
+  {
+    "name": "Blue Tabby",
+    "package": "com.tajas20006.bluetabby",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/blue-tabby.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/blue-tabby.zip"
+  },
+  {
+    "name": "Boobookitty",
+    "package": "com.tajas20006.boobookitty",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/boobookitty.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/boobookitty.zip"
+  },
+  {
+    "name": "Brown Bsd Daemon",
+    "package": "com.tajas20006.brownbsddaemon",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/brown-bsd-daemon.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/brown-bsd-daemon.zip"
+  },
+  {
+    "name": "Brown Dog",
+    "package": "com.tajas20006.browndog",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/brown-dog.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/brown-dog.zip"
+  },
+  {
+    "name": "Calico",
+    "package": "com.tajas20006.calico",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/calico.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/calico.zip"
+  },
+  {
+    "name": "Calico Tabby",
+    "package": "com.tajas20006.calicotabby",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/calico-tabby.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/calico-tabby.zip"
+  },
+  {
+    "name": "Captain Goodnight",
+    "package": "com.tajas20006.captaingoodnight",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/captain-goodnight.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/captain-goodnight.zip"
+  },
+  {
+    "name": "Caz",
+    "package": "com.tajas20006.caz",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/caz.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/caz.zip"
+  },
+  {
+    "name": "Coke Bottle",
+    "package": "com.tajas20006.cokebottle",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/coke-bottle.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/coke-bottle.zip"
+  },
+  {
+    "name": "Colourful",
+    "package": "com.tajas20006.colourful",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/colourful.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/colourful.zip"
+  },
+  {
+    "name": "Dave",
+    "package": "com.tajas20006.dave",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/dave.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/dave.zip"
+  },
+  {
+    "name": "Dog",
+    "package": "com.tajas20006.dog",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/dog.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/dog.zip"
+  },
+  {
+    "name": "Doom",
+    "package": "com.tajas20006.doom",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/doom.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/doom.zip"
+  },
+  {
+    "name": "Earth",
+    "package": "com.tajas20006.earth",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/earth.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/earth.zip"
+  },
+  {
+    "name": "Face",
+    "package": "com.tajas20006.face",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/face.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/face.zip"
+  },
+  {
+    "name": "Fancy",
+    "package": "com.tajas20006.fancy",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/fancy.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/fancy.zip"
+  },
+  {
+    "name": "Ff3Mog",
+    "package": "com.tajas20006.ff3mog",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/ff3mog.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/ff3mog.zip"
+  },
+  {
+    "name": "Ghetto",
+    "package": "com.tajas20006.ghetto",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/ghetto.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/ghetto.zip"
+  },
+  {
+    "name": "Ghost",
+    "package": "com.tajas20006.ghost",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/ghost.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/ghost.zip"
+  },
+  {
+    "name": "Gray",
+    "package": "com.tajas20006.gray",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/gray.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/gray.zip"
+  },
+  {
+    "name": "Green Ghost",
+    "package": "com.tajas20006.greenghost",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/green-ghost.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/green-ghost.zip"
+  },
+  {
+    "name": "Holiday",
+    "package": "com.tajas20006.holiday",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/holiday.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/holiday.zip"
+  },
+  {
+    "name": "Jess",
+    "package": "com.tajas20006.jess",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/jess.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/jess.zip"
+  },
+  {
+    "name": "Kina",
+    "package": "com.tajas20006.kina",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/kina.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/kina.zip"
+  },
+  {
+    "name": "Kuramecha",
+    "package": "com.tajas20006.kuramecha",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/kuramecha.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/kuramecha.zip"
+  },
+  {
+    "name": "Lucky",
+    "package": "com.tajas20006.lucky",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/lucky.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/lucky.zip"
+  },
+  {
+    "name": "Lucy",
+    "package": "com.tajas20006.lucy",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/lucy.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/lucy.zip"
+  },
+  {
+    "name": "Lucy Dog",
+    "package": "com.tajas20006.lucydog",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/lucy-dog.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/lucy-dog.zip"
+  },
+  {
+    "name": "Marmalade",
+    "package": "com.tajas20006.marmalade",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/marmalade.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/marmalade.zip"
+  },
+  {
+    "name": "Mermaid",
+    "package": "com.tajas20006.mermaid",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/mermaid.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/mermaid.zip"
+  },
+  {
+    "name": "Metroid",
+    "package": "com.tajas20006.metroid",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/metroid.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/metroid.zip"
+  },
+  {
+    "name": "Mike",
+    "package": "com.tajas20006.mike",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/mike.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/mike.zip"
+  },
+  {
+    "name": "Moka",
+    "package": "com.tajas20006.moka",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/moka.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/moka.zip"
+  },
+  {
+    "name": "Neko",
+    "package": "com.tajas20006.neko",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/neko.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/neko.zip"
+  },
+  {
+    "name": "Nekocool",
+    "package": "com.tajas20006.nekocool",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/nekocool.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/nekocool.zip"
+  },
+  {
+    "name": "Neon",
+    "package": "com.tajas20006.neon",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/neon.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/neon.zip"
+  },
+  {
+    "name": "Orange",
+    "package": "com.tajas20006.orange",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/orange.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/orange.zip"
+  },
+  {
+    "name": "Pac Man",
+    "package": "com.tajas20006.pacman",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/pac-man.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/pac-man.zip"
+  },
+  {
+    "name": "Peach",
+    "package": "com.tajas20006.peach",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/peach.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/peach.zip"
+  },
+  {
+    "name": "Penguin",
+    "package": "com.tajas20006.penguin",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/penguin.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/penguin.zip"
+  },
+  {
+    "name": "Penguin 2",
+    "package": "com.tajas20006.penguin2",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/penguin-2.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/penguin-2.zip"
+  },
+  {
+    "name": "Pink",
+    "package": "com.tajas20006.pink",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/pink.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/pink.zip"
+  },
+  {
+    "name": "Pink Nose Neko",
+    "package": "com.tajas20006.pinknoseneko",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/pink-nose-neko.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/pink-nose-neko.zip"
+  },
+  {
+    "name": "Rainbow",
+    "package": "com.tajas20006.rainbow",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/rainbow.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/rainbow.zip"
+  },
+  {
+    "name": "Red Bsd Daemon",
+    "package": "com.tajas20006.redbsddaemon",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/red-bsd-daemon.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/red-bsd-daemon.zip"
+  },
+  {
+    "name": "Robot",
+    "package": "com.tajas20006.robot",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/robot.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/robot.zip"
+  },
+  {
+    "name": "Rocket",
+    "package": "com.tajas20006.rocket",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/rocket.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/rocket.zip"
+  },
+  {
+    "name": "Rose",
+    "package": "com.tajas20006.rose",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/rose.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/rose.zip"
+  },
+  {
+    "name": "Royal",
+    "package": "com.tajas20006.royal",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/royal.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/royal.zip"
+  },
+  {
+    "name": "Silver",
+    "package": "com.tajas20006.silver",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/silver.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/silver.zip"
+  },
+  {
+    "name": "Silversky",
+    "package": "com.tajas20006.silversky",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/silversky.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/silversky.zip"
+  },
+  {
+    "name": "Skunk",
+    "package": "com.tajas20006.skunk",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/skunk.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/skunk.zip"
+  },
+  {
+    "name": "Socks",
+    "package": "com.tajas20006.socks",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/socks.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/socks.zip"
+  },
+  {
+    "name": "Sonic",
+    "package": "com.tajas20006.sonic",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/sonic.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/sonic.zip"
+  },
+  {
+    "name": "Spirit",
+    "package": "com.tajas20006.spirit",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/spirit.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/spirit.zip"
+  },
+  {
+    "name": "Spooky",
+    "package": "com.tajas20006.spooky",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/spooky.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/spooky.zip"
+  },
+  {
+    "name": "Tabby",
+    "package": "com.tajas20006.tabby",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/tabby.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/tabby.zip"
+  },
+  {
+    "name": "Tentacle",
+    "package": "com.tajas20006.tentacle",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/tentacle.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/tentacle.zip"
+  },
+  {
+    "name": "Tie Fighter",
+    "package": "com.tajas20006.tiefighter",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/tie-fighter.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/tie-fighter.zip"
+  },
+  {
+    "name": "Turtle",
+    "package": "com.tajas20006.turtle",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/turtle.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/turtle.zip"
+  },
+  {
+    "name": "Usa",
+    "package": "com.tajas20006.usa",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/usa.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/usa.zip"
+  },
+  {
+    "name": "Valentine",
+    "package": "com.tajas20006.valentine",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/valentine.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/valentine.zip"
+  },
+  {
+    "name": "Water",
+    "package": "com.tajas20006.water",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/water.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/water.zip"
+  },
+  {
+    "name": "White",
+    "package": "com.tajas20006.white",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/white.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/white.zip"
+  },
+  {
+    "name": "Worms",
+    "package": "com.tajas20006.worms",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/worms.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/worms.zip"
+  },
+  {
+    "name": "Zelda3",
+    "package": "com.tajas20006.zelda3",
+    "version": "1",
+    "author": "tajas20006",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/zelda3.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/zelda3.zip"
   }
 ]
