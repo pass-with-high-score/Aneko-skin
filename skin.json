@@ -163,7 +163,7 @@
     "name": "Skitty",
     "package": "org.nqmgaming.skitty",
     "version": "1",
-    "author": "nqmgaming",
+    "author": "j4nDr01d",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/skitty.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/skitty.zip"
   },
@@ -235,7 +235,7 @@
     "name": "Jigglypuff",
     "package": "org.nqmgaming.jigglypuff",
     "version": "1",
-    "author": "nqmgaming",
+    "author": "j4nDr01d",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/jigglypuff.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/jigglypuff.zip"
   },
@@ -379,7 +379,7 @@
     "name": "Psyduck",
     "package": "com.psyduck.myskin",
     "version": "1",
-    "author": "AA77",
+    "author": "j4nDr01d",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/psyduck.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/psyduck.zip"
   },
@@ -958,5 +958,2549 @@
     "author": "tajas20006",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/zelda3.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/zelda3.zip"
+  },
+  {
+    "name": "Kadabra",
+    "package": "de.jan.kadabra",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/kadabra.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/kadabra.zip"
+  },
+  {
+    "name": "Shellder",
+    "package": "de.jan.shellder",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/shellder.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/shellder.zip"
+  },
+  {
+    "name": "Bellsprout",
+    "package": "de.jan.bellsprout",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/bellsprout.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/bellsprout.zip"
+  },
+  {
+    "name": "Eevee",
+    "package": "de.jan.eevee",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/eevee.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/eevee.zip"
+  },
+  {
+    "name": "Jolteon",
+    "package": "de.jan.jolteon",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/jolteon.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/jolteon.zip"
+  },
+  {
+    "name": "Hypno",
+    "package": "de.jan.hypno",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/hypno.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/hypno.zip"
+  },
+  {
+    "name": "Breloom",
+    "package": "de.jan.breloom",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/breloom.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/breloom.zip"
+  },
+  {
+    "name": "Carvanha",
+    "package": "de.jan.carvanha",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/carvanha.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/carvanha.zip"
+  },
+  {
+    "name": "Wynaut",
+    "package": "de.jan.wynaut",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/wynaut.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/wynaut.zip"
+  },
+  {
+    "name": "Seel",
+    "package": "de.jan.seel",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/seel.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/seel.zip"
+  },
+  {
+    "name": "Chikorita",
+    "package": "de.jan.chikorita",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/chikorita.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/chikorita.zip"
+  },
+  {
+    "name": "Meditite",
+    "package": "de.jan.meditite",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/meditite.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/meditite.zip"
+  },
+  {
+    "name": "Meganium",
+    "package": "de.jan.meganium",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/meganium.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/meganium.zip"
+  },
+  {
+    "name": "Politoed",
+    "package": "de.jan.politoed",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/politoed.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/politoed.zip"
+  },
+  {
+    "name": "Quilava",
+    "package": "de.jan.quilava",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/quilava.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/quilava.zip"
+  },
+  {
+    "name": "Dusclops",
+    "package": "de.jan.dusclops",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/dusclops.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/dusclops.zip"
+  },
+  {
+    "name": "Zubat",
+    "package": "de.jan.zubat",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/zubat.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/zubat.zip"
+  },
+  {
+    "name": "Ralts",
+    "package": "de.jan.ralts",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/ralts.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/ralts.zip"
+  },
+  {
+    "name": "Pineco",
+    "package": "de.jan.pineco",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/pineco.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/pineco.zip"
+  },
+  {
+    "name": "Graveler",
+    "package": "de.jan.graveler",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/graveler.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/graveler.zip"
+  },
+  {
+    "name": "Pichu",
+    "package": "de.jan.pichu",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/pichu.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/pichu.zip"
+  },
+  {
+    "name": "Magneton",
+    "package": "de.jan.magneton",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/magneton.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/magneton.zip"
+  },
+  {
+    "name": "Corphish",
+    "package": "de.jan.corphish",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/corphish.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/corphish.zip"
+  },
+  {
+    "name": "Crawdaunt",
+    "package": "de.jan.crawdaunt",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/crawdaunt.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/crawdaunt.zip"
+  },
+  {
+    "name": "Grumpig",
+    "package": "de.jan.grumpig",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/grumpig.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/grumpig.zip"
+  },
+  {
+    "name": "Duskull",
+    "package": "de.jan.duskull",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/duskull.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/duskull.zip"
+  },
+  {
+    "name": "Spinarak",
+    "package": "de.jan.spinarak",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/spinarak.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/spinarak.zip"
+  },
+  {
+    "name": "Abra",
+    "package": "de.jan.abra",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/abra.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/abra.zip"
+  },
+  {
+    "name": "Combusken",
+    "package": "de.jan.combusken",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/combusken.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/combusken.zip"
+  },
+  {
+    "name": "Kingler",
+    "package": "de.jan.kingler",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/kingler.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/kingler.zip"
+  },
+  {
+    "name": "Alakazam",
+    "package": "de.jan.alakazam",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/alakazam.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/alakazam.zip"
+  },
+  {
+    "name": "Clefable",
+    "package": "de.jan.clefable",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/clefable.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/clefable.zip"
+  },
+  {
+    "name": "Swellow",
+    "package": "de.jan.swellow",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/swellow.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/swellow.zip"
+  },
+  {
+    "name": "Pelipper",
+    "package": "de.jan.pelipper",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/pelipper.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/pelipper.zip"
+  },
+  {
+    "name": "Aron",
+    "package": "de.jan.aron",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/aron.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/aron.zip"
+  },
+  {
+    "name": "Cacturne",
+    "package": "de.jan.cacturne",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/cacturne.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/cacturne.zip"
+  },
+  {
+    "name": "Poliwag",
+    "package": "de.jan.poliwag",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/poliwag.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/poliwag.zip"
+  },
+  {
+    "name": "Loudred",
+    "package": "de.jan.loudred",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/loudred.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/loudred.zip"
+  },
+  {
+    "name": "Minun",
+    "package": "de.jan.minun",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/minun.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/minun.zip"
+  },
+  {
+    "name": "Nosepass",
+    "package": "de.jan.nosepass",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/nosepass.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/nosepass.zip"
+  },
+  {
+    "name": "Numel",
+    "package": "de.jan.numel",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/numel.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/numel.zip"
+  },
+  {
+    "name": "Wingull",
+    "package": "de.jan.wingull",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/wingull.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/wingull.zip"
+  },
+  {
+    "name": "Gardevoir",
+    "package": "de.jan.gardevoir",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/gardevoir.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/gardevoir.zip"
+  },
+  {
+    "name": "Machamp",
+    "package": "de.jan.machamp",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/machamp.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/machamp.zip"
+  },
+  {
+    "name": "Pinsir",
+    "package": "de.jan.pinsir",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/pinsir.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/pinsir.zip"
+  },
+  {
+    "name": "Seedot",
+    "package": "de.jan.seedot",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/seedot.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/seedot.zip"
+  },
+  {
+    "name": "Muk",
+    "package": "de.jan.muk",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/muk.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/muk.zip"
+  },
+  {
+    "name": "Seaking",
+    "package": "de.jan.seaking",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/seaking.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/seaking.zip"
+  },
+  {
+    "name": "Magikarp",
+    "package": "de.jan.magikarp",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/magikarp.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/magikarp.zip"
+  },
+  {
+    "name": "Goldeen",
+    "package": "de.jan.goldeen",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/goldeen.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/goldeen.zip"
+  },
+  {
+    "name": "Crobat",
+    "package": "de.jan.crobat",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/crobat.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/crobat.zip"
+  },
+  {
+    "name": "Venusaur",
+    "package": "de.jan.venusaur",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/venusaur.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/venusaur.zip"
+  },
+  {
+    "name": "Clamperl",
+    "package": "de.jan.clamperl",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/clamperl.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/clamperl.zip"
+  },
+  {
+    "name": "Scizor",
+    "package": "de.jan.scizor",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/scizor.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/scizor.zip"
+  },
+  {
+    "name": "Shelgon",
+    "package": "de.jan.shelgon",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/shelgon.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/shelgon.zip"
+  },
+  {
+    "name": "Zangoose",
+    "package": "de.jan.zangoose",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/zangoose.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/zangoose.zip"
+  },
+  {
+    "name": "Flareon",
+    "package": "de.jan.flareon",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/flareon.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/flareon.zip"
+  },
+  {
+    "name": "Relicanth",
+    "package": "de.jan.relicanth",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/relicanth.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/relicanth.zip"
+  },
+  {
+    "name": "Typhlosion",
+    "package": "de.jan.typhlosion",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/typhlosion.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/typhlosion.zip"
+  },
+  {
+    "name": "Doduo",
+    "package": "de.jan.doduo",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/doduo.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/doduo.zip"
+  },
+  {
+    "name": "Weedle",
+    "package": "de.jan.weedle",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/weedle.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/weedle.zip"
+  },
+  {
+    "name": "Aipom",
+    "package": "de.jan.aipom",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/aipom.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/aipom.zip"
+  },
+  {
+    "name": "Registeel",
+    "package": "de.jan.registeel",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/registeel.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/registeel.zip"
+  },
+  {
+    "name": "Vileplume",
+    "package": "de.jan.vileplume",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/vileplume.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/vileplume.zip"
+  },
+  {
+    "name": "Beldum",
+    "package": "de.jan.beldum",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/beldum.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/beldum.zip"
+  },
+  {
+    "name": "Shiftry",
+    "package": "de.jan.shiftry",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/shiftry.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/shiftry.zip"
+  },
+  {
+    "name": "Wailmer",
+    "package": "de.jan.wailmer",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/wailmer.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/wailmer.zip"
+  },
+  {
+    "name": "Arcanine",
+    "package": "de.jan.arcanine",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/arcanine.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/arcanine.zip"
+  },
+  {
+    "name": "Tentacruel",
+    "package": "de.jan.tentacruel",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/tentacruel.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/tentacruel.zip"
+  },
+  {
+    "name": "Vigoroth",
+    "package": "de.jan.vigoroth",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/vigoroth.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/vigoroth.zip"
+  },
+  {
+    "name": "Volbeat",
+    "package": "de.jan.volbeat",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/volbeat.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/volbeat.zip"
+  },
+  {
+    "name": "Gloom",
+    "package": "de.jan.gloom",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/gloom.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/gloom.zip"
+  },
+  {
+    "name": "Charmeleon",
+    "package": "de.jan.charmeleon",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/charmeleon.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/charmeleon.zip"
+  },
+  {
+    "name": "Ludicolo",
+    "package": "de.jan.ludicolo",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/ludicolo.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/ludicolo.zip"
+  },
+  {
+    "name": "Sandshrew",
+    "package": "de.jan.sandshrew",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/sandshrew.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/sandshrew.zip"
+  },
+  {
+    "name": "Spearow",
+    "package": "de.jan.spearow",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/spearow.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/spearow.zip"
+  },
+  {
+    "name": "Marowak",
+    "package": "de.jan.marowak",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/marowak.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/marowak.zip"
+  },
+  {
+    "name": "Clefairy",
+    "package": "de.jan.clefairy",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/clefairy.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/clefairy.zip"
+  },
+  {
+    "name": "Snorlax",
+    "package": "de.jan.snorlax",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/snorlax.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/snorlax.zip"
+  },
+  {
+    "name": "Spoink",
+    "package": "de.jan.spoink",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/spoink.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/spoink.zip"
+  },
+  {
+    "name": "Glalie",
+    "package": "de.jan.glalie",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/glalie.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/glalie.zip"
+  },
+  {
+    "name": "Scyther",
+    "package": "de.jan.scyther",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/scyther.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/scyther.zip"
+  },
+  {
+    "name": "Primeape",
+    "package": "de.jan.primeape",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/primeape.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/primeape.zip"
+  },
+  {
+    "name": "Pupitar",
+    "package": "de.jan.pupitar",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/pupitar.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/pupitar.zip"
+  },
+  {
+    "name": "Hariyama",
+    "package": "de.jan.hariyama",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/hariyama.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/hariyama.zip"
+  },
+  {
+    "name": "Mareep",
+    "package": "de.jan.mareep",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/mareep.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/mareep.zip"
+  },
+  {
+    "name": "Azumarill",
+    "package": "de.jan.azumarill",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/azumarill.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/azumarill.zip"
+  },
+  {
+    "name": "Mankey",
+    "package": "de.jan.mankey",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/mankey.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/mankey.zip"
+  },
+  {
+    "name": "Ariados",
+    "package": "de.jan.ariados",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/ariados.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/ariados.zip"
+  },
+  {
+    "name": "Rattata",
+    "package": "de.jan.rattata",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/rattata.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/rattata.zip"
+  },
+  {
+    "name": "Blissey",
+    "package": "de.jan.blissey",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/blissey.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/blissey.zip"
+  },
+  {
+    "name": "Wobbuffet",
+    "package": "de.jan.wobbuffet",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/wobbuffet.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/wobbuffet.zip"
+  },
+  {
+    "name": "Castform",
+    "package": "de.jan.castform",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/castform.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/castform.zip"
+  },
+  {
+    "name": "Voltorb",
+    "package": "de.jan.voltorb",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/voltorb.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/voltorb.zip"
+  },
+  {
+    "name": "Gengar",
+    "package": "de.jan.gengar",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/gengar.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/gengar.zip"
+  },
+  {
+    "name": "Castformrainy",
+    "package": "de.jan.castformrainy",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/castformrainy.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/castformrainy.zip"
+  },
+  {
+    "name": "Surskit",
+    "package": "de.jan.surskit",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/surskit.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/surskit.zip"
+  },
+  {
+    "name": "Miltank",
+    "package": "de.jan.miltank",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/miltank.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/miltank.zip"
+  },
+  {
+    "name": "Camerupt",
+    "package": "de.jan.camerupt",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/camerupt.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/camerupt.zip"
+  },
+  {
+    "name": "Spinda",
+    "package": "de.jan.spinda",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/spinda.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/spinda.zip"
+  },
+  {
+    "name": "Grovyle",
+    "package": "de.jan.grovyle",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/grovyle.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/grovyle.zip"
+  },
+  {
+    "name": "Whiscash",
+    "package": "de.jan.whiscash",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/whiscash.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/whiscash.zip"
+  },
+  {
+    "name": "Cloyster",
+    "package": "de.jan.cloyster",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/cloyster.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/cloyster.zip"
+  },
+  {
+    "name": "Weepinbell",
+    "package": "de.jan.weepinbell",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/weepinbell.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/weepinbell.zip"
+  },
+  {
+    "name": "Qwilfish",
+    "package": "de.jan.qwilfish",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/qwilfish.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/qwilfish.zip"
+  },
+  {
+    "name": "Taillow",
+    "package": "de.jan.taillow",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/taillow.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/taillow.zip"
+  },
+  {
+    "name": "Squirtle",
+    "package": "de.jan.squirtle",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/squirtle.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/squirtle.zip"
+  },
+  {
+    "name": "Lotad",
+    "package": "de.jan.lotad",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/lotad.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/lotad.zip"
+  },
+  {
+    "name": "Cacnea",
+    "package": "de.jan.cacnea",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/cacnea.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/cacnea.zip"
+  },
+  {
+    "name": "Pikachu",
+    "package": "de.jan.pikachu",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/pikachu.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/pikachu.zip"
+  },
+  {
+    "name": "Granbull",
+    "package": "de.jan.granbull",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/granbull.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/granbull.zip"
+  },
+  {
+    "name": "Gligar",
+    "package": "de.jan.gligar",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/gligar.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/gligar.zip"
+  },
+  {
+    "name": "Ursaring",
+    "package": "de.jan.ursaring",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/ursaring.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/ursaring.zip"
+  },
+  {
+    "name": "Victreebel",
+    "package": "de.jan.victreebel",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/victreebel.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/victreebel.zip"
+  },
+  {
+    "name": "Charmander",
+    "package": "de.jan.charmander",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/charmander.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/charmander.zip"
+  },
+  {
+    "name": "Staryu",
+    "package": "de.jan.staryu",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/staryu.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/staryu.zip"
+  },
+  {
+    "name": "Castformsnowy",
+    "package": "de.jan.castformsnowy",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/castformsnowy.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/castformsnowy.zip"
+  },
+  {
+    "name": "Cradily",
+    "package": "de.jan.cradily",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/cradily.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/cradily.zip"
+  },
+  {
+    "name": "Lileep",
+    "package": "de.jan.lileep",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/lileep.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/lileep.zip"
+  },
+  {
+    "name": "Sharpedo",
+    "package": "de.jan.sharpedo",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/sharpedo.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/sharpedo.zip"
+  },
+  {
+    "name": "Venonat",
+    "package": "de.jan.venonat",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/venonat.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/venonat.zip"
+  },
+  {
+    "name": "Shuckle",
+    "package": "de.jan.shuckle",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/shuckle.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/shuckle.zip"
+  },
+  {
+    "name": "Vaporeon",
+    "package": "de.jan.vaporeon",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/vaporeon.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/vaporeon.zip"
+  },
+  {
+    "name": "Piloswine",
+    "package": "de.jan.piloswine",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/piloswine.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/piloswine.zip"
+  },
+  {
+    "name": "Ivysaur",
+    "package": "de.jan.ivysaur",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/ivysaur.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/ivysaur.zip"
+  },
+  {
+    "name": "Krabby",
+    "package": "de.jan.krabby",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/krabby.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/krabby.zip"
+  },
+  {
+    "name": "Teddiursa",
+    "package": "de.jan.teddiursa",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/teddiursa.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/teddiursa.zip"
+  },
+  {
+    "name": "Drowzee",
+    "package": "de.jan.drowzee",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/drowzee.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/drowzee.zip"
+  },
+  {
+    "name": "Nidoranf",
+    "package": "de.jan.nidoranf",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/nidoranf.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/nidoranf.zip"
+  },
+  {
+    "name": "Sandslash",
+    "package": "de.jan.sandslash",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/sandslash.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/sandslash.zip"
+  },
+  {
+    "name": "Tyrogue",
+    "package": "de.jan.tyrogue",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/tyrogue.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/tyrogue.zip"
+  },
+  {
+    "name": "Marshtomp",
+    "package": "de.jan.marshtomp",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/marshtomp.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/marshtomp.zip"
+  },
+  {
+    "name": "Girafarig",
+    "package": "de.jan.girafarig",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/girafarig.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/girafarig.zip"
+  },
+  {
+    "name": "Banette",
+    "package": "de.jan.banette",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/banette.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/banette.zip"
+  },
+  {
+    "name": "Kangaskhan",
+    "package": "de.jan.kangaskhan",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/kangaskhan.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/kangaskhan.zip"
+  },
+  {
+    "name": "Totodile",
+    "package": "de.jan.totodile",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/totodile.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/totodile.zip"
+  },
+  {
+    "name": "Decoy",
+    "package": "de.jan.decoy",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/decoy.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/decoy.zip"
+  },
+  {
+    "name": "Treecko",
+    "package": "de.jan.treecko",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/treecko.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/treecko.zip"
+  },
+  {
+    "name": "Chansey",
+    "package": "de.jan.chansey",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/chansey.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/chansey.zip"
+  },
+  {
+    "name": "Butterfree",
+    "package": "de.jan.butterfree",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/butterfree.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/butterfree.zip"
+  },
+  {
+    "name": "Trapinch",
+    "package": "de.jan.trapinch",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/trapinch.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/trapinch.zip"
+  },
+  {
+    "name": "Starmie",
+    "package": "de.jan.starmie",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/starmie.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/starmie.zip"
+  },
+  {
+    "name": "Shedinja",
+    "package": "de.jan.shedinja",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/shedinja.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/shedinja.zip"
+  },
+  {
+    "name": "Cyndaquil",
+    "package": "de.jan.cyndaquil",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/cyndaquil.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/cyndaquil.zip"
+  },
+  {
+    "name": "Natu",
+    "package": "de.jan.natu",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/natu.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/natu.zip"
+  },
+  {
+    "name": "Swablu",
+    "package": "de.jan.swablu",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/swablu.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/swablu.zip"
+  },
+  {
+    "name": "Makuhita",
+    "package": "de.jan.makuhita",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/makuhita.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/makuhita.zip"
+  },
+  {
+    "name": "Sceptile",
+    "package": "de.jan.sceptile",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/sceptile.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/sceptile.zip"
+  },
+  {
+    "name": "Slaking",
+    "package": "de.jan.slaking",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/slaking.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/slaking.zip"
+  },
+  {
+    "name": "Torchic",
+    "package": "de.jan.torchic",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/torchic.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/torchic.zip"
+  },
+  {
+    "name": "Castformsunny",
+    "package": "de.jan.castformsunny",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/castformsunny.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/castformsunny.zip"
+  },
+  {
+    "name": "Flaaffy",
+    "package": "de.jan.flaaffy",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/flaaffy.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/flaaffy.zip"
+  },
+  {
+    "name": "Munchlax",
+    "package": "de.jan.munchlax",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/munchlax.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/munchlax.zip"
+  },
+  {
+    "name": "Magmar",
+    "package": "de.jan.magmar",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/magmar.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/magmar.zip"
+  },
+  {
+    "name": "Electrike",
+    "package": "de.jan.electrike",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/electrike.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/electrike.zip"
+  },
+  {
+    "name": "Beedrill",
+    "package": "de.jan.beedrill",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/beedrill.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/beedrill.zip"
+  },
+  {
+    "name": "Celebi",
+    "package": "de.jan.celebi",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/celebi.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/celebi.zip"
+  },
+  {
+    "name": "Jumpluff",
+    "package": "de.jan.jumpluff",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/jumpluff.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/jumpluff.zip"
+  },
+  {
+    "name": "Ninetales",
+    "package": "de.jan.ninetales",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/ninetales.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/ninetales.zip"
+  },
+  {
+    "name": "Magnemite",
+    "package": "de.jan.magnemite",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/magnemite.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/magnemite.zip"
+  },
+  {
+    "name": "Octillery",
+    "package": "de.jan.octillery",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/octillery.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/octillery.zip"
+  },
+  {
+    "name": "Bellossom",
+    "package": "de.jan.bellossom",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/bellossom.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/bellossom.zip"
+  },
+  {
+    "name": "Metapod",
+    "package": "de.jan.metapod",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/metapod.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/metapod.zip"
+  },
+  {
+    "name": "Electrode",
+    "package": "de.jan.electrode",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/electrode.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/electrode.zip"
+  },
+  {
+    "name": "Ampharos",
+    "package": "de.jan.ampharos",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/ampharos.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/ampharos.zip"
+  },
+  {
+    "name": "Chinchou",
+    "package": "de.jan.chinchou",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/chinchou.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/chinchou.zip"
+  },
+  {
+    "name": "Magcargo",
+    "package": "de.jan.magcargo",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/magcargo.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/magcargo.zip"
+  },
+  {
+    "name": "Misdreavus",
+    "package": "de.jan.misdreavus",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/misdreavus.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/misdreavus.zip"
+  },
+  {
+    "name": "Larvitar",
+    "package": "de.jan.larvitar",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/larvitar.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/larvitar.zip"
+  },
+  {
+    "name": "Raichu",
+    "package": "de.jan.raichu",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/raichu.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/raichu.zip"
+  },
+  {
+    "name": "Fearow",
+    "package": "de.jan.fearow",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/fearow.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/fearow.zip"
+  },
+  {
+    "name": "Kabuto",
+    "package": "de.jan.kabuto",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/kabuto.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/kabuto.zip"
+  },
+  {
+    "name": "Pidgeotto",
+    "package": "de.jan.pidgeotto",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/pidgeotto.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/pidgeotto.zip"
+  },
+  {
+    "name": "Hitmonchan",
+    "package": "de.jan.hitmonchan",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/hitmonchan.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/hitmonchan.zip"
+  },
+  {
+    "name": "Blastoise",
+    "package": "de.jan.blastoise",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/blastoise.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/blastoise.zip"
+  },
+  {
+    "name": "Weezing",
+    "package": "de.jan.weezing",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/weezing.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/weezing.zip"
+  },
+  {
+    "name": "Croconaw",
+    "package": "de.jan.croconaw",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/croconaw.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/croconaw.zip"
+  },
+  {
+    "name": "Golbat",
+    "package": "de.jan.golbat",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/golbat.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/golbat.zip"
+  },
+  {
+    "name": "Seadra",
+    "package": "de.jan.seadra",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/seadra.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/seadra.zip"
+  },
+  {
+    "name": "Lombre",
+    "package": "de.jan.lombre",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/lombre.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/lombre.zip"
+  },
+  {
+    "name": "Rhyhorn",
+    "package": "de.jan.rhyhorn",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/rhyhorn.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/rhyhorn.zip"
+  },
+  {
+    "name": "Golduck",
+    "package": "de.jan.golduck",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/golduck.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/golduck.zip"
+  },
+  {
+    "name": "Mudkip",
+    "package": "de.jan.mudkip",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/mudkip.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/mudkip.zip"
+  },
+  {
+    "name": "Tyranitar",
+    "package": "de.jan.tyranitar",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/tyranitar.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/tyranitar.zip"
+  },
+  {
+    "name": "Kabutops",
+    "package": "de.jan.kabutops",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/kabutops.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/kabutops.zip"
+  },
+  {
+    "name": "Swalot",
+    "package": "de.jan.swalot",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/swalot.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/swalot.zip"
+  },
+  {
+    "name": "Smeargle",
+    "package": "de.jan.smeargle",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/smeargle.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/smeargle.zip"
+  },
+  {
+    "name": "Haunter",
+    "package": "de.jan.haunter",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/haunter.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/haunter.zip"
+  },
+  {
+    "name": "Wooper",
+    "package": "de.jan.wooper",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/wooper.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/wooper.zip"
+  },
+  {
+    "name": "Spheal",
+    "package": "de.jan.spheal",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/spheal.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/spheal.zip"
+  },
+  {
+    "name": "Remoraid",
+    "package": "de.jan.remoraid",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/remoraid.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/remoraid.zip"
+  },
+  {
+    "name": "Sudowoodo",
+    "package": "de.jan.sudowoodo",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/sudowoodo.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/sudowoodo.zip"
+  },
+  {
+    "name": "Machop",
+    "package": "de.jan.machop",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/machop.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/machop.zip"
+  },
+  {
+    "name": "Koffing",
+    "package": "de.jan.koffing",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/koffing.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/koffing.zip"
+  },
+  {
+    "name": "Pidgeot",
+    "package": "de.jan.pidgeot",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/pidgeot.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/pidgeot.zip"
+  },
+  {
+    "name": "Wigglytuff",
+    "package": "de.jan.wigglytuff",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/wigglytuff.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/wigglytuff.zip"
+  },
+  {
+    "name": "Blaziken",
+    "package": "de.jan.blaziken",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/blaziken.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/blaziken.zip"
+  },
+  {
+    "name": "Porygon",
+    "package": "de.jan.porygon",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/porygon.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/porygon.zip"
+  },
+  {
+    "name": "Walrein",
+    "package": "de.jan.walrein",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/walrein.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/walrein.zip"
+  },
+  {
+    "name": "Vulpix",
+    "package": "de.jan.vulpix",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/vulpix.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/vulpix.zip"
+  },
+  {
+    "name": "Sentret",
+    "package": "de.jan.sentret",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/sentret.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/sentret.zip"
+  },
+  {
+    "name": "Ditto",
+    "package": "de.jan.ditto",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/ditto.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/ditto.zip"
+  },
+  {
+    "name": "Raticate",
+    "package": "de.jan.raticate",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/raticate.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/raticate.zip"
+  },
+  {
+    "name": "Sunkern",
+    "package": "de.jan.sunkern",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/sunkern.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/sunkern.zip"
+  },
+  {
+    "name": "Sealeo",
+    "package": "de.jan.sealeo",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/sealeo.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/sealeo.zip"
+  },
+  {
+    "name": "Geodude",
+    "package": "de.jan.geodude",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/geodude.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/geodude.zip"
+  },
+  {
+    "name": "Corsola",
+    "package": "de.jan.corsola",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/corsola.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/corsola.zip"
+  },
+  {
+    "name": "Tentacool",
+    "package": "de.jan.tentacool",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/tentacool.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/tentacool.zip"
+  },
+  {
+    "name": "Horsea",
+    "package": "de.jan.horsea",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/horsea.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/horsea.zip"
+  },
+  {
+    "name": "Oddish",
+    "package": "de.jan.oddish",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/oddish.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/oddish.zip"
+  },
+  {
+    "name": "Flygon",
+    "package": "de.jan.flygon",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/flygon.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/flygon.zip"
+  },
+  {
+    "name": "Snorunt",
+    "package": "de.jan.snorunt",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/snorunt.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/snorunt.zip"
+  },
+  {
+    "name": "Machoke",
+    "package": "de.jan.machoke",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/machoke.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/machoke.zip"
+  },
+  {
+    "name": "Aggron",
+    "package": "de.jan.aggron",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/aggron.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/aggron.zip"
+  },
+  {
+    "name": "Lapras",
+    "package": "de.jan.lapras",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/lapras.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/lapras.zip"
+  },
+  {
+    "name": "Poliwrath",
+    "package": "de.jan.poliwrath",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/poliwrath.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/poliwrath.zip"
+  },
+  {
+    "name": "Delibird",
+    "package": "de.jan.delibird",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/delibird.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/delibird.zip"
+  },
+  {
+    "name": "Omastar",
+    "package": "de.jan.omastar",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/omastar.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/omastar.zip"
+  },
+  {
+    "name": "Heracross",
+    "package": "de.jan.heracross",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/heracross.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/heracross.zip"
+  },
+  {
+    "name": "Nuzleaf",
+    "package": "de.jan.nuzleaf",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/nuzleaf.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/nuzleaf.zip"
+  },
+  {
+    "name": "Slowpoke",
+    "package": "de.jan.slowpoke",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/slowpoke.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/slowpoke.zip"
+  },
+  {
+    "name": "Bulbasaur",
+    "package": "de.jan.bulbasaur",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/bulbasaur.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/bulbasaur.zip"
+  },
+  {
+    "name": "Growlithe",
+    "package": "de.jan.growlithe",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/growlithe.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/growlithe.zip"
+  },
+  {
+    "name": "Torkoal",
+    "package": "de.jan.torkoal",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/torkoal.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/torkoal.zip"
+  },
+  {
+    "name": "Gulpin",
+    "package": "de.jan.gulpin",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/gulpin.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/gulpin.zip"
+  },
+  {
+    "name": "Dustox",
+    "package": "de.jan.dustox",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/dustox.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/dustox.zip"
+  },
+  {
+    "name": "Hoothoot",
+    "package": "de.jan.hoothoot",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/hoothoot.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/hoothoot.zip"
+  },
+  {
+    "name": "Ponyta",
+    "package": "de.jan.ponyta",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/ponyta.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/ponyta.zip"
+  },
+  {
+    "name": "Parasect",
+    "package": "de.jan.parasect",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/parasect.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/parasect.zip"
+  },
+  {
+    "name": "Azurill",
+    "package": "de.jan.azurill",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/azurill.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/azurill.zip"
+  },
+  {
+    "name": "Dodrio",
+    "package": "de.jan.dodrio",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/dodrio.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/dodrio.zip"
+  },
+  {
+    "name": "Meowth",
+    "package": "de.jan.meowth",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/meowth.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/meowth.zip"
+  },
+  {
+    "name": "Exeggutor",
+    "package": "de.jan.exeggutor",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/exeggutor.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/exeggutor.zip"
+  },
+  {
+    "name": "Dunsparce",
+    "package": "de.jan.dunsparce",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/dunsparce.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/dunsparce.zip"
+  },
+  {
+    "name": "Persian",
+    "package": "de.jan.persian",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/persian.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/persian.zip"
+  },
+  {
+    "name": "Bagon",
+    "package": "de.jan.bagon",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/bagon.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/bagon.zip"
+  },
+  {
+    "name": "Hitmontop",
+    "package": "de.jan.hitmontop",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/hitmontop.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/hitmontop.zip"
+  },
+  {
+    "name": "Cleffa",
+    "package": "de.jan.cleffa",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/cleffa.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/cleffa.zip"
+  },
+  {
+    "name": "Poochyena",
+    "package": "de.jan.poochyena",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/poochyena.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/poochyena.zip"
+  },
+  {
+    "name": "Wurmple",
+    "package": "de.jan.wurmple",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/wurmple.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/wurmple.zip"
+  },
+  {
+    "name": "Tauros",
+    "package": "de.jan.tauros",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/tauros.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/tauros.zip"
+  },
+  {
+    "name": "Slugma",
+    "package": "de.jan.slugma",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/slugma.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/slugma.zip"
+  },
+  {
+    "name": "Feraligatr",
+    "package": "de.jan.feraligatr",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/feraligatr.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/feraligatr.zip"
+  },
+  {
+    "name": "Pidgey",
+    "package": "de.jan.pidgey",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/pidgey.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/pidgey.zip"
+  },
+  {
+    "name": "Electabuzz",
+    "package": "de.jan.electabuzz",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/electabuzz.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/electabuzz.zip"
+  },
+  {
+    "name": "Donphan",
+    "package": "de.jan.donphan",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/donphan.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/donphan.zip"
+  },
+  {
+    "name": "Vibrava",
+    "package": "de.jan.vibrava",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/vibrava.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/vibrava.zip"
+  },
+  {
+    "name": "Skiploom",
+    "package": "de.jan.skiploom",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/skiploom.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/skiploom.zip"
+  },
+  {
+    "name": "Anorith",
+    "package": "de.jan.anorith",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/anorith.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/anorith.zip"
+  },
+  {
+    "name": "Togepi",
+    "package": "de.jan.togepi",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/togepi.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/togepi.zip"
+  },
+  {
+    "name": "Dewgong",
+    "package": "de.jan.dewgong",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/dewgong.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/dewgong.zip"
+  },
+  {
+    "name": "Elekid",
+    "package": "de.jan.elekid",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/elekid.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/elekid.zip"
+  },
+  {
+    "name": "Feebas",
+    "package": "de.jan.feebas",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/feebas.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/feebas.zip"
+  },
+  {
+    "name": "Umbreon",
+    "package": "de.jan.umbreon",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/umbreon.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/umbreon.zip"
+  },
+  {
+    "name": "Marill",
+    "package": "de.jan.marill",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/marill.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/marill.zip"
+  },
+  {
+    "name": "Slakoth",
+    "package": "de.jan.slakoth",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/slakoth.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/slakoth.zip"
+  },
+  {
+    "name": "Wartortle",
+    "package": "de.jan.wartortle",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/wartortle.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/wartortle.zip"
+  },
+  {
+    "name": "Whismur",
+    "package": "de.jan.whismur",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/whismur.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/whismur.zip"
+  },
+  {
+    "name": "Nidoking",
+    "package": "de.jan.nidoking",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/nidoking.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/nidoking.zip"
+  },
+  {
+    "name": "Jirachi",
+    "package": "de.jan.jirachi",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/jirachi.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/jirachi.zip"
+  },
+  {
+    "name": "Quagsire",
+    "package": "de.jan.quagsire",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/quagsire.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/quagsire.zip"
+  },
+  {
+    "name": "Grimer",
+    "package": "de.jan.grimer",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/grimer.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/grimer.zip"
+  },
+  {
+    "name": "Swinub",
+    "package": "de.jan.swinub",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/swinub.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/swinub.zip"
+  },
+  {
+    "name": "Mightyena",
+    "package": "de.jan.mightyena",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/mightyena.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/mightyena.zip"
+  },
+  {
+    "name": "Ekans",
+    "package": "de.jan.ekans",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/ekans.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/ekans.zip"
+  },
+  {
+    "name": "Porygon2",
+    "package": "de.jan.porygon2",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/porygon2.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/porygon2.zip"
+  },
+  {
+    "name": "Magby",
+    "package": "de.jan.magby",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/magby.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/magby.zip"
+  },
+  {
+    "name": "Xatu",
+    "package": "de.jan.xatu",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/xatu.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/xatu.zip"
+  },
+  {
+    "name": "Caterpie",
+    "package": "de.jan.caterpie",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/caterpie.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/caterpie.zip"
+  },
+  {
+    "name": "Slowking",
+    "package": "de.jan.slowking",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/slowking.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/slowking.zip"
+  },
+  {
+    "name": "Metang",
+    "package": "de.jan.metang",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/metang.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/metang.zip"
+  },
+  {
+    "name": "Tangela",
+    "package": "de.jan.tangela",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/tangela.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/tangela.zip"
+  },
+  {
+    "name": "Swampert",
+    "package": "de.jan.swampert",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/swampert.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/swampert.zip"
+  },
+  {
+    "name": "Snubbull",
+    "package": "de.jan.snubbull",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/snubbull.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/snubbull.zip"
+  },
+  {
+    "name": "Linoone",
+    "package": "de.jan.linoone",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/linoone.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/linoone.zip"
+  },
+  {
+    "name": "Zigzagoon",
+    "package": "de.jan.zigzagoon",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/zigzagoon.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/zigzagoon.zip"
+  },
+  {
+    "name": "Golem",
+    "package": "de.jan.golem",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/golem.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/golem.zip"
+  },
+  {
+    "name": "Slowbro",
+    "package": "de.jan.slowbro",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/slowbro.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/slowbro.zip"
+  },
+  {
+    "name": "Mrmime",
+    "package": "de.jan.mrmime",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/mrmime.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/mrmime.zip"
+  },
+  {
+    "name": "Illumise",
+    "package": "de.jan.illumise",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/illumise.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/illumise.zip"
+  },
+  {
+    "name": "Nincada",
+    "package": "de.jan.nincada",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/nincada.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/nincada.zip"
+  },
+  {
+    "name": "Jynx",
+    "package": "de.jan.jynx",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/jynx.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/jynx.zip"
+  },
+  {
+    "name": "Igglybuff",
+    "package": "de.jan.igglybuff",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/igglybuff.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/igglybuff.zip"
+  },
+  {
+    "name": "Paras",
+    "package": "de.jan.paras",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/paras.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/paras.zip"
+  },
+  {
+    "name": "Houndour",
+    "package": "de.jan.houndour",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/houndour.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/houndour.zip"
+  },
+  {
+    "name": "Masquerain",
+    "package": "de.jan.masquerain",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/masquerain.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/masquerain.zip"
+  },
+  {
+    "name": "Sunflora",
+    "package": "de.jan.sunflora",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/sunflora.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/sunflora.zip"
+  },
+  {
+    "name": "Hitmonlee",
+    "package": "de.jan.hitmonlee",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/hitmonlee.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/hitmonlee.zip"
+  },
+  {
+    "name": "Shuppet",
+    "package": "de.jan.shuppet",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/shuppet.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/shuppet.zip"
+  },
+  {
+    "name": "Exeggcute",
+    "package": "de.jan.exeggcute",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/exeggcute.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/exeggcute.zip"
+  },
+  {
+    "name": "Lairon",
+    "package": "de.jan.lairon",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/lairon.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/lairon.zip"
+  },
+  {
+    "name": "Shroomish",
+    "package": "de.jan.shroomish",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/shroomish.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/shroomish.zip"
+  },
+  {
+    "name": "Nidoranm",
+    "package": "de.jan.nidoranm",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/nidoranm.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/nidoranm.zip"
+  },
+  {
+    "name": "Roselia",
+    "package": "de.jan.roselia",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/roselia.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/roselia.zip"
+  },
+  {
+    "name": "Venomoth",
+    "package": "de.jan.venomoth",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/venomoth.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/venomoth.zip"
+  },
+  {
+    "name": "Kecleon",
+    "package": "de.jan.kecleon",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/kecleon.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/kecleon.zip"
+  },
+  {
+    "name": "Medicham",
+    "package": "de.jan.medicham",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/medicham.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/medicham.zip"
+  },
+  {
+    "name": "Exploud",
+    "package": "de.jan.exploud",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/exploud.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/exploud.zip"
+  },
+  {
+    "name": "Dratini",
+    "package": "de.jan.dratini",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/dratini.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/dratini.zip"
+  },
+  {
+    "name": "Cubone",
+    "package": "de.jan.cubone",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/cubone.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/cubone.zip"
+  },
+  {
+    "name": "Phanpy",
+    "package": "de.jan.phanpy",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/phanpy.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/phanpy.zip"
+  },
+  {
+    "name": "Rhydon",
+    "package": "de.jan.rhydon",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/rhydon.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/rhydon.zip"
+  },
+  {
+    "name": "Barboach",
+    "package": "de.jan.barboach",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/barboach.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/barboach.zip"
+  },
+  {
+    "name": "Sneasel",
+    "package": "de.jan.sneasel",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/sneasel.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/sneasel.zip"
+  },
+  {
+    "name": "Mawile",
+    "package": "de.jan.mawile",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/mawile.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/mawile.zip"
+  },
+  {
+    "name": "Nidorino",
+    "package": "de.jan.nidorino",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/nidorino.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/nidorino.zip"
+  },
+  {
+    "name": "Plusle",
+    "package": "de.jan.plusle",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/plusle.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/plusle.zip"
+  },
+  {
+    "name": "Chimecho",
+    "package": "de.jan.chimecho",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/chimecho.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/chimecho.zip"
+  },
+  {
+    "name": "Lanturn",
+    "package": "de.jan.lanturn",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/lanturn.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/lanturn.zip"
+  },
+  {
+    "name": "Delcatty",
+    "package": "de.jan.delcatty",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/delcatty.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/delcatty.zip"
+  },
+  {
+    "name": "Lickitung",
+    "package": "de.jan.lickitung",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/lickitung.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/lickitung.zip"
+  },
+  {
+    "name": "Nidorina",
+    "package": "de.jan.nidorina",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/nidorina.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/nidorina.zip"
+  },
+  {
+    "name": "Luvdisc",
+    "package": "de.jan.luvdisc",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/luvdisc.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/luvdisc.zip"
+  },
+  {
+    "name": "Seviper",
+    "package": "de.jan.seviper",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/seviper.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/seviper.zip"
+  },
+  {
+    "name": "Poliwhirl",
+    "package": "de.jan.poliwhirl",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/poliwhirl.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/poliwhirl.zip"
+  },
+  {
+    "name": "Nidoqueen",
+    "package": "de.jan.nidoqueen",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/nidoqueen.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/nidoqueen.zip"
+  },
+  {
+    "name": "Farfetchd",
+    "package": "de.jan.farfetchd",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/farfetchd.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/farfetchd.zip"
+  },
+  {
+    "name": "Sableye",
+    "package": "de.jan.sableye",
+    "version": "1",
+    "author": "j4nDr01d",
+    "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/sableye.png",
+    "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/sableye.zip"
   }
 ]
