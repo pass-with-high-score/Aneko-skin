@@ -1,0 +1,70 @@
+<motion-params package="de.jan.slaking" name="Slaking" author="j4nDr01d" preview="awake.png" acceleration="50" maxVelocity="40" deaccelerationDistance="30" proximityDistance="5" initialState="stop" awakeState="awake" moveStatePrefix="move" wallStatePrefix="wall">
+    <motion state="stop" checkWall="true" nextState="wait">
+        <item drawable="mati1" duration="1000" />
+    </motion>
+    <motion state="wait">
+        <item drawable="mati1" duration="4000" />
+        <item drawable="mati1" duration="250" />
+        <item drawable="mati1" duration="250" />
+        <item drawable="mati1" duration="3000" />
+    </motion>
+    <motion state="awake" checkMove="true" nextState="stop">
+        <item drawable="awake" duration="750" />
+    </motion>
+    <motion state="moveUp">
+        <repeat-item>
+            <item drawable="up1" duration="250" />
+            <item drawable="up2" duration="250" />
+            <item drawable="up3" duration="250" />
+        </repeat-item>
+    </motion>
+    <motion state="moveDown">
+        <repeat-item>
+            <item drawable="down1" duration="250" />
+            <item drawable="down2" duration="250" />
+            <item drawable="down3" duration="250" />
+        </repeat-item>
+    </motion>
+    <motion state="moveLeft">
+        <repeat-item>
+            <item drawable="left1" duration="250" />
+            <item drawable="left2" duration="250" />
+            <item drawable="left3" duration="250" />
+        </repeat-item>
+    </motion>
+    <motion state="moveRight">
+        <repeat-item>
+            <item drawable="right1" duration="250" />
+            <item drawable="right2" duration="250" />
+            <item drawable="right3" duration="250" />
+        </repeat-item>
+    </motion>
+    <motion state="moveUpLeft">
+        <repeat-item>
+            <item drawable="upleft1" duration="250" />
+            <item drawable="upleft2" duration="250" />
+            <item drawable="upleft3" duration="250" />
+        </repeat-item>
+    </motion>
+    <motion state="moveUpRight">
+        <repeat-item>
+            <item drawable="upright1" duration="250" />
+            <item drawable="upright2" duration="250" />
+            <item drawable="upright3" duration="250" />
+        </repeat-item>
+    </motion>
+    <motion state="moveDownRight">
+        <repeat-item>
+            <item drawable="dwright1" duration="250" />
+            <item drawable="dwright2" duration="250" />
+            <item drawable="dwright3" duration="250" />
+        </repeat-item>
+    </motion>
+    <motion state="moveDownLeft">
+        <repeat-item>
+            <item drawable="dwleft1" duration="220" />
+            <item drawable="dwleft2" duration="220" />
+            <item drawable="dwleft3" duration="220" />
+        </repeat-item>
+    </motion>
+</motion-params>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <motion-params
-        package="org.nqmgaming.bxter"
+        package="com.tajas20006.colourful"
         name="Colourful"
         preview="icon.png"
         author="tajas20006"
